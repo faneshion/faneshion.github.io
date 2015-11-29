@@ -6,7 +6,7 @@
 title: eshion's blog
 subtitle: 向前走，就这么走，就算会遇到什么
 description:
-author: John Doe
+author: eshion
 language:
 timezone:
 
@@ -73,3 +73,4 @@ deploy:
   type: git
   repository: git@github.com:faneshion/faneshion.github.io.git
   branch: gh-pages
+  message: eshion blog deploy
