@@ -1,0 +1,274 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  
+  <title>eshion&#39;s blog</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+  <meta name="description">
+<meta property="og:type" content="website">
+<meta property="og:title" content="eshion's blog">
+<meta property="og:url" content="http://faneshion.github.io/index.html">
+<meta property="og:site_name" content="eshion's blog">
+<meta property="og:description">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="eshion's blog">
+<meta name="twitter:description">
+  
+    <link rel="alternative" href="/atom.xml" title="eshion&#39;s blog" type="application/atom+xml">
+  
+  
+    <link rel="icon" href="/favicon.png">
+  
+  <link href="//fonts.googleapis.com/css?family=Source+Code+Pro" rel="stylesheet" type="text/css">
+  <link rel="stylesheet" href="/css/style.css" type="text/css">
+  
+
+</head>
+<body>
+  <div id="container">
+    <div id="wrap">
+      <header id="header">
+  <div id="banner"></div>
+  <div id="header-outer" class="outer">
+    <div id="header-title" class="inner">
+      <h1 id="logo-wrap">
+        <a href="/" id="logo">eshion&#39;s blog</a>
+      </h1>
+      
+        <h2 id="subtitle-wrap">
+          <a href="/" id="subtitle">向前走，就这么走，就算会遇到什么</a>
+        </h2>
+      
+    </div>
+    <div id="header-inner" class="inner">
+      <nav id="main-nav">
+        <a id="main-nav-toggle" class="nav-icon"></a>
+        
+          <a class="main-nav-link" href="/">Home</a>
+        
+          <a class="main-nav-link" href="/archives">Archives</a>
+        
+      </nav>
+      <nav id="sub-nav">
+        
+          <a id="nav-rss-link" class="nav-icon" href="/atom.xml" title="RSS Feed"></a>
+        
+        <a id="nav-search-btn" class="nav-icon" title="Search"></a>
+      </nav>
+      <div id="search-form-wrap">
+        <form action="//google.com/search" method="get" accept-charset="UTF-8" class="search-form"><input type="search" name="q" results="0" class="search-form-input" placeholder="Search"><button type="submit" class="search-form-submit">&#xF002;</button><input type="hidden" name="sitesearch" value="http://faneshion.github.io"></form>
+      </div>
+    </div>
+  </div>
+</header>
+      <div class="outer">
+        <section id="main">
+  
+    <article id="post-paperreading151125" class="article article-type-post" itemscope itemprop="blogPost">
+  <div class="article-meta">
+    <a href="/2015/11/29/paperreading151125/" class="article-date">
+  <time datetime="2015-11-29T11:24:16.000Z" itemprop="datePublished">2015-11-29</time>
+</a>
+    
+  </div>
+  <div class="article-inner">
+    
+    
+      <header class="article-header">
+        
+  
+    <h1 itemprop="name">
+      <a class="article-title" href="/2015/11/29/paperreading151125/">paper reaing 151125</a>
+    </h1>
+  
+
+      </header>
+    
+    <div class="article-entry" itemprop="articleBody">
+      
+        <hr>
+<h2 id="2015_ICML:_From_Word_Embedding_to_Document_Distances">2015 ICML: From Word Embedding to Document Distances</h2><p>一般来说，计算两个doc的相似度的方式很多。一种是先对原始的doc构建一个表达，将两个doc的相似度计算转化成两个表达的相似度计算，一个比较通用的做法是将doc表示成一个向量。构建doc表达的方式有很多种：<a href="http://www.baidu.com" title="TF-IDF" target="_blank" rel="external">BOW/TF-IDF</a>、<a href="http://www.baidu.com" title="LSI" target="_blank" rel="external">Latent Semantic Indexing(LSI)</a>、<a href="http://www.baidu.com" title="LDA" target="_blank" rel="external">Latent Dirichlet Allocation(LDA)</a> 以及<a href="http://www.baidu.com" title="PV-DBOW" target="_blank" rel="external">PV-DBOW</a> 等等，这个也是目前比较主流的一些做法。 另一种是基于doc中meta-data的相似度来构建doc的相似度，这里的meta data可以是doc的topic<a href="http://www.baidu.com" title="wanxiaojun" target="_blank" rel="external">7</a>或者word等。这篇文章就是属于后面一种，基于word对之间的相似度来构建doc对之间的相似度。</p>
+<p>#motivation</p>
+<p>假设有两个doc D1和D2，我们要计算这两个句子的相似度。</p>
+<ul>
+<li>D1: <font color="#0030cf">obama</font> <font color="#ff0000">speaks</font> to the <font color="00ff00">media</font> in <font color="#23dfcc">Illinois</font>.</li>
+<li>D2: The <font color="#0030cf">President</font> <font color="ff0000">greets</font> the <font color="#00ff00">press</font> in <font color="#23dfcc">Chicago</font>.</li>
+</ul>
+<p>很明显的，传统基于BOW/TF-IDF的相似度计算方式的话D1和D2之间的相似度是0（stop word 被移除了）.而实际上这两个句子其实是说的同一个事情，只是用了不同词而已。</p>
+<p>#background</p>
+<p>##word embedding</p>
+<p>词向量这几年可以说是NLP里面最火的，有很多做词向量学习的文章，影响力比较大的就是Mikolov搞的<a href="http://www.baidu.com" title="word2vec" target="_blank" rel="external">word2vec</a>了。直接上个图：<br><img src="../pic/20151125_w2v.png" alt="word2vec" title="word2vec"><br>可以看到一个词被表示成一个向量后，在这个向量空间中，相似的词距离比较小。</p>
+<p>##earth mover’s distance(EMD)</p>
+<p><img src="../pic/20151125_emd.png" alt="EMD" title="Earth Mover&#39;s Distance"><br>EMD是用来计算两个分布之间的距离的。如图中两个分布P和Q，其中分布P中每个元素Pi都有自己的capacity和feature，如图中P1的capacity为0.4，feature是向量[100,40,22]，而Q1的capacity是 0.5，feature是向量[0,0,0]。其中$P_i$中的capacity决定能被move的量是多少，而$Q_j$中的capacity决定能接纳的量是多少。feature向量用来计算元素之间的距离的。最后距离的计算就形式化一下的形式：<br>$$\min \sum_{i,j} f_{i,j}* c(i,j) $$<br>$$s.t.  f_{i,j} &gt;= 0 $$<br>$$\sum_i f_{i,j} &lt;= Q_{j}$$<br>$$\sum_j f_{i,j} &lt;= P_{i}$$<br>在三个约束条件下求解目标的一个最小值作为两个doc之间的距离。</p>
+<p>#Model</p>
+<p>##WMD</p>
+<p>本文的方法其实并没有在EMD的框架上并没有什么突破性的改进，完全是原来的一套，不同只是meta data的capacity和feature不一样而已。这篇文章是将每个doc看成词的分布，每个词有自己capacity和feature，具体的，feature就是词的词向量，capacity是normalize后的词频。这样两个doc之间的相似度就变成了一个EMD的问题。作者给它取了个名字叫做word mover’s distance(WMD).</p>
+<p>##WCD</p>
+<p>原始的WMD求解是一个比较麻烦的事情，主要是时间复杂度比较大，是$O(p^3\log{p})$. 这时作者就对目标街做了一个近似。这个近似解就可以当做完整解的一个下界。<br><img src="../pic/20151125_wcd.png" alt="wcd" title="word centroid distance"><br>可以看到，最后两个doc之间的距离就变成他们的中心之间的距离，时间复杂度是$O(dp)$</p>
+<p>##RWMD</p>
+<p>最然WCD能作为WMD的一个下界，但是这个下界距离目标街WMD还是太远了，这时，作者就对约束来进行了一个近似，将Q上的约束去掉后，原来WMD的问题就变成了：<br><img src="../pic/20151125_rwmd.png" alt="rwmd" title="Relaxed word mover&#39;s distance"></p>
+<h2 id="同样的，将P上的约束去掉后，也得到一个RWMD的解，这样，将这两个RWMD的解作为最终的Relaxed_Word_Mover’s_Distance-">同样的，将P上的约束去掉后，也得到一个RWMD的解，这样，将这两个RWMD的解作为最终的Relaxed Word Mover’s Distance.</h2><p>最后在求一个doc的top-k的neighbor的时候，先用wcd来找top-k的doc，然后对这k个doc计算其RWMD值，将其中最大的那个作为一个threshold来过滤剩下的所有的doc，当剩下的doc的RWMD的值小于threthold时才计算该doc的WMD值，否则就不计算。</p>
+<p>#refrence</p>
+
+      
+    </div>
+    <footer class="article-footer">
+      <a data-url="http://faneshion.github.io/2015/11/29/paperreading151125/" data-id="cihkgxyg00001vqxb3d4gqiqd" class="article-share-link">Share</a>
+      
+      
+    </footer>
+  </div>
+  
+</article>
+
+
+  
+    <article id="post-hello-world" class="article article-type-post" itemscope itemprop="blogPost">
+  <div class="article-meta">
+    <a href="/2015/11/29/hello-world/" class="article-date">
+  <time datetime="2015-11-29T07:48:04.000Z" itemprop="datePublished">2015-11-29</time>
+</a>
+    
+  </div>
+  <div class="article-inner">
+    
+    
+      <header class="article-header">
+        
+  
+    <h1 itemprop="name">
+      <a class="article-title" href="/2015/11/29/hello-world/">Hello World</a>
+    </h1>
+  
+
+      </header>
+    
+    <div class="article-entry" itemprop="articleBody">
+      
+        <p>Welcome to <a href="http://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="http://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="http://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
+<h2 id="Quick_Start">Quick Start</h2><h3 id="Create_a_new_post">Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure>
+<p>More info: <a href="http://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p>
+<h3 id="Run_server">Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+<p>More info: <a href="http://hexo.io/docs/server.html" target="_blank" rel="external">Server</a></p>
+<h3 id="Generate_static_files">Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+<p>More info: <a href="http://hexo.io/docs/generating.html" target="_blank" rel="external">Generating</a></p>
+<h3 id="Deploy_to_remote_sites">Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+<p>More info: <a href="http://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>
+
+      
+    </div>
+    <footer class="article-footer">
+      <a data-url="http://faneshion.github.io/2015/11/29/hello-world/" data-id="cihkgxyfr0000vqxbxwxzsbr6" class="article-share-link">Share</a>
+      
+      
+    </footer>
+  </div>
+  
+</article>
+
+
+  
+  
+</section>
+        
+          <aside id="sidebar">
+  
+    
+  
+    
+  
+    
+  
+    
+  <div class="widget-wrap">
+    <h3 class="widget-title">Archives</h3>
+    <div class="widget">
+      <ul class="archive-list"><li class="archive-list-item"><a class="archive-list-link" href="/archives/2015/11/">November 2015</a><span class="archive-list-count">2</span></li></ul>
+    </div>
+  </div>
+
+  
+    
+  <div class="widget-wrap">
+    <h3 class="widget-title">Recents</h3>
+    <div class="widget">
+      <ul>
+        
+          <li>
+            <a href="/2015/11/29/paperreading151125/">paper reaing 151125</a>
+          </li>
+        
+          <li>
+            <a href="/2015/11/29/hello-world/">Hello World</a>
+          </li>
+        
+      </ul>
+    </div>
+  </div>
+
+  
+</aside>
+        
+      </div>
+      <footer id="footer">
+  
+  <div class="outer">
+    <div id="footer-info" class="inner">
+      &copy; 2015 eshion<br>
+      Powered by <a href="http://hexo.io/" target="_blank">Hexo</a>
+    </div>
+  </div>
+</footer>
+    </div>
+    <nav id="mobile-nav">
+  
+    <a href="/" class="mobile-nav-link">Home</a>
+  
+    <a href="/archives" class="mobile-nav-link">Archives</a>
+  
+</nav>
+    
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
+
+
+  <link rel="stylesheet" href="/fancybox/jquery.fancybox.css" type="text/css">
+  <script src="/fancybox/jquery.fancybox.pack.js" type="text/javascript"></script>
+
+
+<script src="/js/script.js" type="text/javascript"></script>
+
+  </div>
+<!-- mathjax config similar to math.stackexchange -->
+
+<script type="text/x-mathjax-config">
+  MathJax.Hub.Config({
+    tex2jax: {
+      inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+      processEscapes: true
+    }
+  });
+</script>
+
+<script type="text/x-mathjax-config">
+    MathJax.Hub.Config({
+      tex2jax: {
+        skipTags: ['script', 'noscript', 'style', 'textarea', 'pre', 'code']
+      }
+    });
+</script>
+
+<script type="text/x-mathjax-config">
+    MathJax.Hub.Queue(function() {
+        var all = MathJax.Hub.getAllJax(), i;
+        for(i=0; i < all.length; i += 1) {
+            all[i].SourceElement().parentNode.className += ' has-jax';
+        }
+    });
+</script>
+
+<script type="text/javascript" src="//cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+</script>
+</body>
+</html>
