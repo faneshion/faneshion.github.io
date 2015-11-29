@@ -72,4 +72,4 @@ theme: landscape
 deploy:
   type: git
   repository: git@github.com:faneshion/faneshion.github.io.git
-  brach: gh-pages
+  branch: gh-pages
