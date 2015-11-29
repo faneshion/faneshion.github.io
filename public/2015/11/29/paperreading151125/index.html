@@ -3,23 +3,22 @@
 <head>
   <meta charset="utf-8">
   
-  <title>paper reaing 151125 | Hexo</title>
+  <title>paper reaing 151125 | eshion&#39;s blog</title>
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
   <meta name="description" content="2015 ICML: From Word Embedding to Document Distances一般来说，计算两个doc的相似度的方式很多。一种是先对原始的doc构建一个表达，将两个doc的相似度计算转化成两个表达的相似度计算，一个比较通用的做法是将doc表示成一个向量。构建doc表达的方式有很多种：BOW/TF-IDF、Latent Semantic Indexing(LSI)、Late">
 <meta property="og:type" content="article">
 <meta property="og:title" content="paper reaing 151125">
-<meta property="og:url" content="http://yoursite.com/2015/11/29/paperreading151125/index.html">
-<meta property="og:site_name" content="Hexo">
+<meta property="og:url" content="http://faneshion.github.io/2015/11/29/paperreading151125/index.html">
+<meta property="og:site_name" content="eshion's blog">
 <meta property="og:description" content="2015 ICML: From Word Embedding to Document Distances一般来说，计算两个doc的相似度的方式很多。一种是先对原始的doc构建一个表达，将两个doc的相似度计算转化成两个表达的相似度计算，一个比较通用的做法是将doc表示成一个向量。构建doc表达的方式有很多种：BOW/TF-IDF、Latent Semantic Indexing(LSI)、Late">
-<meta property="og:image" content="http://yoursite.com/../pic/20151125_w2v.png">
-<meta property="og:image" content="http://yoursite.com/../pic/20151125_emd.png">
-<meta property="og:image" content="http://www.forkosh.com/mathtex.cgi? \Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}">
-<meta property="og:updated_time" content="2015-11-29T07:48:04.000Z">
+<meta property="og:image" content="http://faneshion.github.io/../pic/20151125_w2v.png">
+<meta property="og:image" content="http://faneshion.github.io/../pic/20151125_emd.png">
+<meta property="og:updated_time" content="2015-11-29T10:18:18.000Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="paper reaing 151125">
 <meta name="twitter:description" content="2015 ICML: From Word Embedding to Document Distances一般来说，计算两个doc的相似度的方式很多。一种是先对原始的doc构建一个表达，将两个doc的相似度计算转化成两个表达的相似度计算，一个比较通用的做法是将doc表示成一个向量。构建doc表达的方式有很多种：BOW/TF-IDF、Latent Semantic Indexing(LSI)、Late">
   
-    <link rel="alternative" href="/atom.xml" title="Hexo" type="application/atom+xml">
+    <link rel="alternative" href="/atom.xml" title="eshion&#39;s blog" type="application/atom+xml">
   
   
     <link rel="icon" href="/favicon.png">
@@ -37,8 +36,12 @@
   <div id="header-outer" class="outer">
     <div id="header-title" class="inner">
       <h1 id="logo-wrap">
-        <a href="/" id="logo">Hexo</a>
+        <a href="/" id="logo">eshion&#39;s blog</a>
       </h1>
+      
+        <h2 id="subtitle-wrap">
+          <a href="/" id="subtitle">向前走，就这么走，就算会遇到什么</a>
+        </h2>
       
     </div>
     <div id="header-inner" class="inner">
@@ -57,7 +60,7 @@
         <a id="nav-search-btn" class="nav-icon" title="Search"></a>
       </nav>
       <div id="search-form-wrap">
-        <form action="//google.com/search" method="get" accept-charset="UTF-8" class="search-form"><input type="search" name="q" results="0" class="search-form-input" placeholder="Search"><button type="submit" class="search-form-submit">&#xF002;</button><input type="hidden" name="sitesearch" value="http://yoursite.com"></form>
+        <form action="//google.com/search" method="get" accept-charset="UTF-8" class="search-form"><input type="search" name="q" results="0" class="search-form-input" placeholder="Search"><button type="submit" class="search-form-submit">&#xF002;</button><input type="hidden" name="sitesearch" value="http://faneshion.github.io"></form>
       </div>
     </div>
   </div>
@@ -66,7 +69,7 @@
         <section id="main"><article id="post-paperreading151125" class="article article-type-post" itemscope itemprop="blogPost">
   <div class="article-meta">
     <a href="/2015/11/29/paperreading151125/" class="article-date">
-  <time datetime="2015-11-29T07:48:04.000Z" itemprop="datePublished">2015-11-29</time>
+  <time datetime="2015-11-29T10:18:18.000Z" itemprop="datePublished">2015-11-29</time>
 </a>
     
   </div>
@@ -95,13 +98,14 @@
 <p>很明显的，传统基于BOW/TF-IDF的相似度计算方式的话D1和D2之间的相似度是0（stop word 被移除了）.而实际上这两个句子其实是说的同一个事情，只是用了不同词而已。</p>
 <p>#background</p>
 <p>##word embedding<br>词向量这几年可以说是NLP里面最火的，有很多做词向量学习的文章，影响力比较大的就是Mikolov搞的<a href="http://www.baidu.com" title="word2vec" target="_blank" rel="external">word2vec</a>了。直接上个图：<br><img src="../pic/20151125_w2v.png" alt="word2vec" title="word2vec"><br>可以看到一个词被表示成一个向量后，在这个向量空间中，相似的词距离比较小。</p>
-<p>##earth mover’s distance(EMD)<br><img src="../pic/20151125_emd.png" alt="EMD" title="Earth Mover&#39;s Distance"><br>EMD是用来计算两个分布之间的相似度的。如图中两个分布P和Q，其中分布P中每个元素Pi都有自己的capacity，如图中P1的capacity为0.4，而Q1的capacity是 $p_i$<br><img src="http://www.forkosh.com/mathtex.cgi? \Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}"></p>
+<p>##earth mover’s distance(EMD)<br><img src="../pic/20151125_emd.png" alt="EMD" title="Earth Mover&#39;s Distance"><br>EMD是用来计算两个分布之间的相似度的。如图中两个分布P和Q，其中分布P中每个元素Pi都有自己的capacity和feature，如图中P1的capacity为0.4，feature是向量[100,40,22]，而Q1的capacity是 0.5，feature是向量[0,0,0]。其中$P_i$中的capacity决定能被move的量是多少，而$Q_j$中的capacity决定能接纳的量是多少。feature向量用来计算元素之间的距离的。<br>$$\min \sum_{i,j} f_{i,j}* c(i,j) $$<br>$$s.t.  f_{i,j} &gt;= 0 $$<br>$$\sum_i f_{i,j} &lt;= Q_{j}$$<br>$\sum_j f_{i,j} &lt;= P_{i}$</p>
+<p>#Model<br>本文的方法其实并没有在EMD的框架上并没有什么突破性的改进，完全是原来的一套，不同只是meta data的capacity和feature不一样而已。这篇文章是将每篇文章看成文章中词的分布，每个词</p>
 <p>#refrence</p>
 
       
     </div>
     <footer class="article-footer">
-      <a data-url="http://yoursite.com/2015/11/29/paperreading151125/" data-id="cihk8wqbq0001x8xbiuwh1ete" class="article-share-link">Share</a>
+      <a data-url="http://faneshion.github.io/2015/11/29/paperreading151125/" data-id="cihkdjcoq0001d3xbcsytg9de" class="article-share-link">Share</a>
       
       
     </footer>
@@ -110,15 +114,11 @@
     
 <nav id="article-nav">
   
-    <a href="/2015/11/29/hello-world/" id="article-nav-newer" class="article-nav-link-wrap">
-      <strong class="article-nav-caption">Newer</strong>
-      <div class="article-nav-title">
-        
-          Hello World
-        
-      </div>
-    </a>
   
+    <a href="/2015/11/29/hello-world/" id="article-nav-older" class="article-nav-link-wrap">
+      <strong class="article-nav-caption">Older</strong>
+      <div class="article-nav-title">Hello World</div>
+    </a>
   
 </nav>
 
@@ -151,11 +151,11 @@
       <ul>
         
           <li>
-            <a href="/2015/11/29/hello-world/">Hello World</a>
+            <a href="/2015/11/29/paperreading151125/">paper reaing 151125</a>
           </li>
         
           <li>
-            <a href="/2015/11/29/paperreading151125/">paper reaing 151125</a>
+            <a href="/2015/11/29/hello-world/">Hello World</a>
           </li>
         
       </ul>
