@@ -21,7 +21,7 @@ author_profile: true
 		<td>Deadline 2016</td>
 	</tr>
 	<tr>
-		<td rowspan="2"><b><i>Jan</i></b></td>
+		<td rowspan="3"><b><i>Jan</i></b></td>
 		<td>SIGIR</td>
 		<td><a href="https://sigir.org/sigir2022/" title="date: 2022-07-11..15, notify: 2022-04-29"><nobr>2022-01-21(abstract)</nobr><br>2022-01-28(full)<br> Madrid</a></td>
 		<td><a href="https://sigir.org/sigir2021/" title="date: 2021-07-11..15, notify: 2021-02-14"><nobr>2021-02-02(abstract)</nobr><br>2021-02-09(full)<br> Online</a></td>
@@ -40,6 +40,16 @@ author_profile: true
 		<td><a href="http://www.ijcai-18.org/cfp/index.html" title="date: 2018-07-13..19, notify: 2018-04-16"><nobr>2018-01-25(abstract)</nobr><br>2018-02-02(full)<br>Stockholm, Sweden</a></td>
 		<td><a href="https://ijcai-17.org/index.html" title="date: 2017-08-19..25, notify: 2017-04-23"><nobr>2017-02-16(abstract)</nobr><br>2017-02-20(full)<br>Melbourne, Australia</a></td>
 		<td><a href="https://ijcai-16.org/" title="date: 2016-07-09..15, notify: 2016-04-04"><nobr>2016-01-27(abstract)</nobr><br>2016-02-02(full)<br>New York, USA</a></td>
+	</tr>
+	<tr>
+		<td>NAACL</td>
+		<td><a href="https://2022.naacl.org/calls/papers/" title="date: 2022-07-10..15, notify: 2022-04-07">2022-01-15<br>Seattle, WA, USA</a></td>
+		<td><a href="https://2021.naacl.org/" title="date: 2021-06-06..11, notify: 2021-03-10"><nobr>2021-11-23<br>Online</a></td>
+		<td>-</td>
+		<td><a href="http://naacl2019.org/" title="date: 2019-06-03..05, notify: 2019-02-22"><nobr>2018-12-03(abstract)</nobr><br>2018-12-10(full)<br>Hyatt Regency in Minneapolis</a></td>
+		<td><a href="http://naacl.org/naacl-hlt-2018/" title="date: 2018-06-01..06, notify: 2018-02-13"><nobr>2017-12-15<br>New Orleans, Louisiana</a></td>
+		<td><-</td>
+		<td><a href="http://naacl.org/naacl-hlt-2016/" title="date: 2016-06-12..17, notify: 2016-03-02">2016-01-26<br>San Diego</a></td>
 	</tr>
 	<tr>
 		<td rowspan="1"><b><i>Feb</i></b></td>
@@ -279,34 +289,15 @@ Lausanne, Switzerland</a></td>
 	</tr>
 	
 	<tr>
-		<td rowspan="2"><b><i>Nov</i></b></td>
-		<td>DAC</td>
+		<td rowspan="1"><b><i>Nov</i></b></td>
+		<td>ACL</td>
 		<td>-</td>
-		<td><a href="https://www.dac.com/DAC-2022/2022-Call-for-Contributions" title="date: 2022-07-10..14, notify: 2022-02-21">2021-11-15(abstract)<br>2021-11-22(full)<br>San Francisco, CA</a></td>
-		<td><a href="https://www.dac.com/" title="date: 2021-07-11..15, notify: 2021-02-24">2020-11-23<br>
-San Francisco, CA</a></td>
-		<td><a href="https://www.dac.com/content/57th-dac" title="date: 2020-07-19..23, notify: 2020-02-28">2019-11-21<br>
-San Francisco, CA</a></td>
-		<td><a href="https://www.dac.com/content/56th-dac" title="date: 2019-06-02..06, notify: 2019-03-25">2018-11-27<br>
-Las Vegas, NV</a></td>
-		<td><a href="https://dac.com/content/55th-dac" title="date: 2018-06-24..28, notify: ">2017-11-14<br>
-San Francisco, CA</a></td>
-		<td><a href="https://dac.com/content/54th-dac" title="">2016-11-15<br>
-Austin, TX</a></td>
-	</tr>
-	<tr>
-		<td>PLDI</td>
-		<td>-</td>
-		<td><a href="https://conf.researchr.org/home/pldi-2022" title="date: 2022-06-20..24, notify: 2022-02-25">2021-11-19<br>San Diego, CA</a></td>
-		<td><a href="https://conf.researchr.org/home/pldi-2021" title="date: 2021-06-20..25, notify:">2020-11-20<br>Quebec City, CA</a></td>
-		<td><a href="http://conf.researchr.org/home/pldi-2020" title="date: 2020-06-15..20, notify: 2020-02-21">2019-11-22<br>
-London, UK</a></td>
-		<td><a href="http://conf.researchr.org/home/pldi-2019" title="date: 2019-06-24..26, notify: 2019-02-15">2018-11-16<br>
-Phoenix, AZ</a></td>
-		<td><a href="http://conf.researchr.org/home/pldi-2018" title="date: 2018-06-20..22, notify: 2018-02-13">2017-11-16<br>
-Philadelphia, PA</a></td>
-		<td><a href="http://conf.researchr.org/home/pldi-2017" title="date: 2017-06-19..23, notify: 2017-02-13">2016-11-15<br>
-Barcelona, Spain</a></td>
+		<td><a href="https://www.2022.aclweb.org/" title="date: 2022-05-22..27, notify: 2022-02-20">2021-11-15<br>Dublin, Ireland</a></td>
+		<td><a href="https://2021.aclweb.org/" title="date: 2021-08-02..04, notify: 2021-05-05">2021-02-02<br>Online</a></td>
+		<td><a href="https://acl2020.org/" title="date: 2020-07-05..10, notify: 2020-04-03">2019-12-09<br>Seattle, WA</a></td>
+		<td><a href="http://www.acl2019.org" title="date: 2019-07-28..08-02, notify: 2019-05-13">2019-03-04<br>Florence, Italy</a></td>
+		<td><a href="http://acl2018.org/" title="date: 2018-07-15..28, notify: 2018-04-20">2018-02-22<br>Melbourne, Australia</a></td>
+		<td><a href="http://acl2017.org/" title="date: 2017-07-30..08-04, nofify: 2017-03-30">2017-02-06<br>Vancouver, Canada</a></td>
 	</tr>
 	<tr>
 		<td rowspan="1"><b><i>DEC</i></b></td>
