@@ -9,51 +9,17 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+[Click to View My Up-to-date Curriculum Vitae (中文)](../files/resume_chinese_20220620.pdf)
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+Other web sites or CV:
+----
+
+[Institute of Computing Technology, Chinese Academy of Sciences (中文)](http://www.ict.cas.cn/sourcedb_2018_ict_cas/cn/jssrck/202111/t20211105_6245596.html)
+
+[University of Chinese Academy of Sciences (中文)](https://people.ucas.edu.cn/~fanyixing)
+
+[University of Chinese Academy of Sciences (English)](https://people.ucas.edu.cn/~fanyixing?language=en)
+
+
