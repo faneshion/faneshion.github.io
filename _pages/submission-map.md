@@ -45,10 +45,10 @@ author_profile: true
 		<td>NAACL</td>
 		<td><a href="https://2022.naacl.org/calls/papers/" title="date: 2022-07-10..15, notify: 2022-04-07">2022-01-15<br>Seattle, WA, USA</a></td>
 		<td><a href="https://2021.naacl.org/" title="date: 2021-06-06..11, notify: 2021-03-10"><nobr>2021-11-23<br>Online</a></td>
-		<td>-</td>
+		<td></td>
 		<td><a href="http://naacl2019.org/" title="date: 2019-06-03..05, notify: 2019-02-22"><nobr>2018-12-03(abstract)</nobr><br>2018-12-10(full)<br>Hyatt Regency in Minneapolis</a></td>
 		<td><a href="http://naacl.org/naacl-hlt-2018/" title="date: 2018-06-01..06, notify: 2018-02-13"><nobr>2017-12-15<br>New Orleans, Louisiana</a></td>
-		<td><-</td>
+		<td></td>
 		<td><a href="http://naacl.org/naacl-hlt-2016/" title="date: 2016-06-12..17, notify: 2016-03-02">2016-01-26<br>San Diego</a></td>
 	</tr>
 	<tr>
