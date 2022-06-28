@@ -22,27 +22,24 @@ author_profile: true
 	</tr>
 	<tr>
 		<td rowspan="2"><b><i>Jan</i></b></td>
-		<td>ATC</td>
-		<td><a href="https://www.usenix.org/conference/atc22" title="date: 2022-07-11..13, notify: 2022-04-29"><nobr>2022-01-06(abstract)</nobr><br>2022-01-13(full)<br> CARLSBAD, CA</a></td>
-		<td><a href="https://www.usenix.org/conference/atc21" title="date: 2021-07-14..16, notify: 2021-04-26">2021-01-12<br> SANTA CLARA, CA</a></td>
-		<td><a href="https://www.usenix.org/conference/atc20" title="date: 2020-07-15..17, notify: 2020-04-24">2020-01-15<br> Boston, MA</a></td>
-		<td><a href="https://www.usenix.org/conference/atc19" title="date: 2019-07-10..12, notify: 2019-04-16">2019-01-10<br> Renton, WA</a></td>
-		<td><a href="https://www.usenix.org/conference/atc18" title="date: 2018-07-11..13, notify: 2018-04-18">2018-02-06<br>
-Boston, MA</a></td>
-		<td><a href="https://www.usenix.org/conference/atc17" title="date: 2017-07-12..14, notify: 2017-04-24">2017-02-07<br>
-Santa Clara, CA</a></td>
-		<td><a href="https://www.usenix.org/conference/atc16" title="date: 2016-06-22..24, notify: 2016-4-15">2016-02-01<br>Denver, CO</a></td>
+		<td>SIGIR</td>
+		<td><a href="https://sigir.org/sigir2022/" title="date: 2022-07-11..15, notify: 2022-04-29"><nobr>2022-01-21(abstract)</nobr><br>2022-01-28(full)<br> Madrid</a></td>
+		<td><a href="https://sigir.org/sigir2021/" title="date: 2021-07-11..15, notify: 2021-02-14"><nobr>2021-02-02(abstract)</nobr><br>2021-02-09(full)<br> Online</a></td>
+		<td><a href="https://sigir.org/sigir2020/" title="date: 2020-07-25..30, notify: 2020-04-22"><nobr>2020-01-15(abstract)</nobr><br>2020-01-22(full)<br> XiAn, China</a></td>
+		<td><a href="https://sigir.org/sigir2019/" title="date: 2019-07-21.25, notify: 2019-04-14"><nobr>2019-01-21(abstract)</nobr><br>2019-01-28(full)<br>Paris, France</a></td>
+		<td><a href="https://sigir.org/sigir2018/" title="date: 2018-07-08..12, notify: 2018-04-18"><nobr>2018-01-22(abstract)</nobr><br>2018-01-29(full)<br>Michigan, US</a></td>
+		<td><a href="https://sigir.org/sigir2017/" title="date: 2017-07-21.25, notify: 2017-04-11"><nobr>2017-01-17(abstract)</nobr><br>2017-01-24(full)<br>Tokyo, Japan</a></td>
+		<td><a href="https://sigir.org/sigir2016/" title="date: 2016-07-06..12, notify: 2016-04-18"><nobr>2016-01-22(abstract)</nobr><br>2016-01-29(full)<br>Pisa, Italy</a></td>
 	</tr>
 	<tr>
-		<td>ICDCS</td>
-		<td><a href="https://icdcs2022.icdcs.org/" title="date: 2022-07-10..13, notify: 2022-04-04">2022-01-17(abstract)<br>2022-01-24(full)<br>Bologna, Italy</a></td>
-		<td><a href="https://icdcs2021.us/" title="date: 2021-07-07..10, notify: 2021-03-07"><nobr>2021-01-06(abstract)</nobr><br>2021-01-13(full)<br>Washington DC</a></td>
-		<td><a href="https://icdcs2020.sg/" title="date: 2020-07-08..10, notify: 2020-03-14">2020-01-06<br>Singapore</a></td>
-		<td><a href="http://theory.utdallas.edu/ICDCS2019" title="date: 2019-07-07..10, notify: 2019-03-28">2019-01-12<br>Dallas, TX</a></td>
+		<td>IJCAI</td>
+		<td><a href="https://ijcai-22.org/" title="date: 2022-07-23..29, notify: 2022-04-20">2022-01-07(abstract)<br>2022-01-14(full)<br>Vienna, Austria</a></td>
+		<td><a href="https://ijcai-21.org/" title="date: 2021-08-19..26, notify: 2021-03-07"><nobr>2021-01-13(abstract)</nobr><br>2021-01-20(full)<br>Montreal, Canada</a></td>
+		<td><a href="https://static.ijcai.org/ijcai-pricai-2020-schedule/" title="date: 2020-07-11..17, notify: 2020-03-14"><nobr>2020-01-15(abstract)</nobr><br>2020-01-21(full)<br>Tokyo, Japan</a></td>
+		<td><a href="https://www.ijcai19.org/" title="date: 2019-08-10..16, notify: 2019-04-09"><nobr>2019-02-19(abstract)</nobr><br>2019-02-25(full)<br>Macao, China</a></td>
 		<td align="center">-</td>
-		<td><a href="http://icdcs2018.ocg.at/" title="date: 2018-07-02..06, notify: 2018-03-28">2017-12-12<br>Vienna, Austria</a></td>
-		<td><a href="https://icdcs2017.gatech.edu/" title="date: 2017-06-05..08, notify: 2017-03-06">2016-12-12<br>
-Atlanta, GA</a></td>
+		<td><a href="http://www.ijcai-18.org/cfp/index.html" title="date: 2018-07-13..19, notify: 2018-04-16"><nobr>2018-01-25(abstract)</nobr><br>2018-02-02(full)<br>Stockholm, Sweden</a></td>
+		<td><a href="https://ijcai-17.org/index.html" title="date: 2017-08-19..25, notify: 2017-04-23"><nobr>2017-02-16(abstract)</nobr><br>2017-02-20(full)<br>Melbourne, Australia</a></td>
 	</tr>
 	<tr>
 		<td rowspan="1"><b><i>Feb</i></b></td>
@@ -152,20 +149,15 @@ Taipei, Taiwan</a></td>
 		<td><a href="https://www.hipeac.net/2017/stockholm/" title="date: 2016-01-23..25, notify: 2016-11-15">2016-06-01<br>Stockholm,Sweden</a></td>
 	</tr>
 	<tr>
-		<td>ICCD</td>
-		<td><a href="https://www.iccd-conf.com/Home.html" title="date: 2022-10-23..26, notify: 2022-08-21">2022-06-04(abstract)<br>2022-06-11(full)<br>
-Lake Tahoe, US</a></td>
-		<td><a href="https://www.iccd-conf.com/2021/Home.html" title="date: 2021-10-24..27, notify: 2021-08-20">2021-05-28(abstract)<br>2021-06-04(full)<br>
-Virtual Conference</a></td>
-		<td><a href="https://www.iccd-conf.com/2020/Home.html" title="date: 2020-10-18..21, notify: 2020-08-17">2020-06-05<br>
-Hartford, CT</a></td>
-		<td><a href="https://www.iccd-conf.com/2019/Home.html" title="date: 2019-11-17..20, notify: 2019-09-09">2019-06-28<br>
-Abu Dhabi, UAE</a></td>
-		<td><a href="https://www.iccd-conf.com/2018/Home.html" title="date: 2018-10-07..10, notify: 2018-08-06">2018-05-25<br>Orlando, FL</a></td>
-		<td><a href="https://www.iccd-conf.com/2017/Home.html" title="date: 2017-11-05..08, notify: 2017-08-31">2017-06-23<br>
-Boston, MA</a></td>
-		<td><a href="https://www.iccd-conf.com/2016/Home.html" title="date: 2016-10-03..05, notify: 2016-07-29">2016-05-20<br>
-Phoenix, AZ</a></td>
+		<td>EMNLP</td>
+		<td><a href="https://2022.emnlp.org/" title="date: 2022-12-09..11, notify: 2022-10-06">2022-06-17(abstract)<br>2022-06-24(full)<br>Abu Dhabi</a></td>
+		<td><a href="https://2021.emnlp.org/" title="date: 2021-11-07..09, notify: 2021-08-25">2021-05-10(abstract)<br>2021-05-17(full)<br>Online</a></td>
+		<td><a href="https://2020.emnlp.org/" title="date: 2020-11-16..18, notify: 2020-09-14">2020-05-11<br>Online</a></td>
+		<td><a href="https://2019.emnlp.org/" title="date: 2019-11-05..07, notify: 2019-08-12">2019-05-21<br>Hong Kong, China</a></td>
+		<td><a href="https://2018.emnlp.org/" title="date: 2018-11-02..04, notify: 2018-08-10">2018-05-22<br>Brussels, Belgium</a></td>
+		<td><a href="http://emnlp2017.net/" title="date: 2017-09-07..11, notify: 2017-06-30">2017-04-14<br>Copenhagen</a></td>
+		<td><a href="https://www.aclweb.org/mirror/emnlp2016/" title="date: 2016-11-02..04, notify: 2016-07-29">2016-06-03<br>
+AUstin, Texas, US</a></td>
 	</tr>
 	<tr>
 		<td rowspan="2"><b><i>Jul</i></b></td>
@@ -205,14 +197,14 @@ Chiba/Tokyo, Japan</a></td>
 
 	<tr>
 		<td rowspan="2"><b><i>Aug</i></b></td>
-		<td>SIGMETRICS<br>(summer)</td>
-		<td><a href="http://www.sigmetrics.org/sigmetrics2023" title="date: 2023-06-19..23, notify: 2022-10-04">2022-08-03(abstract)<br>2022-08-10(full)<br>Orlando, FL</a></td>
-		<td><a href="http://www.sigmetrics.org/sigmetrics2022" title="date: 2022-06-06..10, notify: 2021-10-04">2021-08-04(abstract)<br>2021-08-11(full)<br>Mumbai, India</a></td>
-		<td>-</td>
-		<td>-</td>
-		<td>-</td>
-		<td>-</td>
-		<td>-</td>
+		<td>WSDM<br></td>
+		<td><a href="https://www.wsdm-conference.org/2023/" title="date: 2023-02-27..03-03, notify: 2022-10-21">2022-08-12<br>Sigapoer</a></td>
+		<td><a href="https://www.wsdm-conference.org/2022/" title="date: 2022-02-21..25, notify: 2021-10-11">2021-08-13<br>Online</a></td>
+		<td><a href="https://www.wsdm-conference.org/2021/" title="date: 2022-02-21..25, notify: 2021-10-11">2021-08-13<br>Online</a></td>
+		<td><a href="https://www.wsdm-conference.org/2020/" title="date: 2020-02-03..07, notify: 2019-10-12">2019-08-12(abstract)<br>2019-08-16(full)<br>Houston, Texos, US</a></td>
+		<td><a href="https://www.wsdm-conference.org/2019/" title="date: 2019-02-11..15, notify: 2018-10-24">2018-08-08(abstract)<br>2018-08-15(full)<br>Melboure, Australia</a></td>
+		<td><a href="https://www.wsdm-conference.org/2018/" title="date: 2018-02-06..08, notify: 2017-10-23">2017-08-04(abstract)<br>2017-08-12(full)<br>Los Angeles, California, US</a></td>
+		<td><a href="https://www.wsdm-conference.org/2017/" title="date: 2017-02-07..09, notify: 2016-10-17">2016-07-31(abstract)<br>2016-08-07(full)<br>Cambridge, UK</a></td>
 	</tr>
 	<tr>
 		<td>PPoPP</td>
