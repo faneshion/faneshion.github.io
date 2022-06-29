@@ -53,16 +53,16 @@ author_profile: true
 	</tr>
 	<tr>
 		<td rowspan="1"><b><i>Feb</i></b></td>
-		<td>Euro Par</td>
-		<td><a href="https://2022.euro-par.org" title="date: 2022-08-24..26, notify: 2022-04-29"><nobr>2022-02-04(abstract)</nobr><br>2022-02-11(full)<br></a><span style="color: #663333, font-size: 14px">Glasgow, UK</span></td>
-		<td><a href="https://2021.euro-par.org" title="date: 2021-09-01..03, notify: 2021-04-30"><nobr>2021-02-05(abstract)</nobr><br>2021-02-12(full)<br></a><span style="color: #663333, font-size: 14px">Lisbon, Portugal</span></td>
-		<td><a href="https://2020.euro-par.org" title="date: 2020-08-24..28, notify: 2020-04-30">2020-02-07<br></a><span style="color: #663333, font-size: 14px">Warsaw, Poland</span></td>
-		<td><a href="https://2019.euro-par.org" title="date: 2019-08-26..30, notify: 2019-05-03">2019-02-15<br>
-Gottingen,<br></a><span style="color: #663333, font-size: 14px">Germany</span></td>
-		<td><a href="http://europar2018.org/" title="date: 2018-08-27..31, notify: 2018-04-27">2018-02-16<br></a><span style="color: #663333, font-size: 14px">Turin, Italy</span></td>
-		<td><a href="http://europar2017.usc.es/" title="date: 2017-08-28..01, notify: 2017-04-24">2017-02-09<br></a><span style="color: #663333, font-size: 14px">Santiago, Spain</span></td>
-		<td><a href="https://europar2016.inria.fr/" title="date: 2016-08-22..26, notify: 2016-04-24">2016-02-06<br></a><span style="color: #663333, font-size: 14px">Grenoble, France</span></td>
+		<td>KDD</td>
+		<td><a href="https://kdd.org/kdd2022/" title="date: 2022-08-14..18, notify: 2022-05-19"><nobr>2022-02-10<br></a><span style="color: #663333, font-size: 14px">Washington DC</span></td>
+		<td><a href="https://www.kdd.org/kdd2021" title="date: 2021-08-14..18, notify: 2021-05-17">2021-02-08<br></a><span style="color: #663333, font-size: 14px">Singapore</span></td>
+		<td><a href="https://www.kdd.org/kdd2020" title="date: 2020-08-22..27, notify: 2020-05-15">2020-02-13<br></a><span style="color: #663333, font-size: 14px">San Diego, California, USA</span></td>
+		<td><a href="https://www.kdd.org/kdd2019" title="date: 2019-08-03..07, notify: 2019-04-28">2019-02-03<br></a><span style="color: #663333, font-size: 14px">Anchorage, Alaska - USA</span></td>
+		<td><a href="https://www.kdd.org/kdd2018" title="date: 2018-08-19..23, notify: 2018-05-06">2018-02-11<br></a><span style="color: #663333, font-size: 14px">London, UK</span></td>
+		<td><a href="https://www.kdd.org/kdd2017" title="date: 2017-08-13..17, notify: 2016-12-31">2016-12-09<br></a><span style="color: #663333, font-size: 14px">Halifax, Nova Scotia, Canada</span></td>
+		<td><a href="https://www.kdd.org/kdd2016" title="date: 2016-08-13..17, notify: 2016-05-12">2016-02-12<br></a><span style="color: #663333, font-size: 14px">San Francisco, USA</span></td>
 	</tr>
+	
 	<tr>
 		<td rowspan="1"><b><i>Mar</i></b></td>
 		<td></td>
@@ -149,7 +149,7 @@ Gottingen,<br></a><span style="color: #663333, font-size: 14px">Germany</span></
 		<td><a href="https://iclr.cc/Conferences/2021/CallForPapers" title="date: 2021-05-04..08, notify: 2021-01-02">2020-09-28(abstract)<br>2020-10-02(full)<br></a><span style="color: #663333, font-size: 14px">Vienna, Austria</span></td>
 		<td><a href="https://iclr.cc/Conferences/2020" title="date: 2020-04-26..30, notify: 2019-12-19">2020-09-25<br></a><span style="color: #663333, font-size: 14px">Addis Ababa ETHIOPIA</span></td>
 		<td><a href="https://iclr.cc/Conferences/2019/CallForPapers" title="date: 2019-05-06..09, notify: 2018-12-22">2018-09-27<br></a><span style="color: #663333, font-size: 14px">New Orleans</span></td>
-		<td><a href="https://iclr.cc/Conferences/2018" title="date: 2018-04-30..05-03, notify: 2018-01-29">2018-10-27<br></a><span style="color: #663333, font-size: 14px">Vancouver, Canada</span></td>
+		<td><a href="https://iclr.cc/Conferences/2018" title="date: 2018-04-30..05-03, notify: 2018-01-29">2017-10-27<br></a><span style="color: #663333, font-size: 14px">Vancouver, Canada</span></td>
 		<td><a href="https://iclr.cc/Conferences/2017" title="date: 2017-04-24..26, notify: 2016-12-16">2016-11-04<br></a><span style="color: #663333, font-size: 14px">Toulon, France</span></td>
 	</tr>
 
