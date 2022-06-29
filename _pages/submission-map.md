@@ -23,7 +23,7 @@ author_profile: true
 	<tr>
 		<td rowspan="3"><b><i>Jan</i></b></td>
 		<td>SIGIR</td>
-		<td><a href="https://sigir.org/sigir2022/" title="date: 2022-07-11..15, notify: 2022-04-29"><nobr>2022-01-21(abstract)</nobr><br>2022-01-28(full)<br></a><font size="2", color="grey">Madrid</font></td>
+		<td><a href="https://sigir.org/sigir2022/" title="date: 2022-07-11..15, notify: 2022-04-29"><nobr>2022-01-21(abstract)</nobr><br>2022-01-28(full)<br></a><span><font size="2", color="grey">Madrid</font></span></td>
 		<td><a href="https://sigir.org/sigir2021/" title="date: 2021-07-11..15, notify: 2021-02-14"><nobr>2021-02-02(abstract)</nobr><br>2021-02-09(full)<br> Online</a></td>
 		<td><a href="https://sigir.org/sigir2020/" title="date: 2020-07-25..30, notify: 2020-04-22"><nobr>2020-01-15(abstract)</nobr><br>2020-01-22(full)<br> XiAn, China</a></td>
 		<td><a href="https://sigir.org/sigir2019/" title="date: 2019-07-21.25, notify: 2019-04-14"><nobr>2019-01-21(abstract)</nobr><br>2019-01-28(full)<br>Paris, France</a></td>
