@@ -52,7 +52,7 @@ author_profile: true
 		<td><a href="http://naacl.org/naacl-hlt-2016/" title="date: 2016-06-12..17, notify: 2016-03-02">2016-01-26<br></a><span style="color: #663333, font-size: 14px">San Diego</span></td>
 	</tr>
 	<tr>
-		<td rowspan="1"><b><i>Feb</i></b></td>
+		<td rowspan="2"><b><i>Feb</i></b></td>
 		<td>KDD</td>
 		<td><a href="https://kdd.org/kdd2022/" title="date: 2022-08-14..18, notify: 2022-05-19"><nobr>2022-02-10<br></a><span style="color: #663333, font-size: 14px">Washington DC</span></td>
 		<td><a href="https://www.kdd.org/kdd2021" title="date: 2021-08-14..18, notify: 2021-05-17">2021-02-08<br></a><span style="color: #663333, font-size: 14px">Singapore</span></td>
@@ -185,13 +185,13 @@ author_profile: true
 	</tr>
 	<tr>
 		<td>ECIR</td>
-		<td>-</td>
 		<td><a href="http://ecir2023.org/" title="date: 2023-04-02..06, notify: 2022-12-12">2022-10-07<br></a><span style="color: #663333, font-size: 14px">Dublin, Ireland</span></td>
 		<td><a href="https://ecir2022.org" title="date: 2022-04-10..14, notify: 2021-11-18">2021-10-07<br></a><span style="color: #663333, font-size: 14px">Stavanger, Norway</span></td>
 		<td><a href="https://www.ecir2021.eu/" title="date: 2021-03-28..04-01, notify: 2020-12-15">2020-10-15<br></a><span style="color: #663333, font-size: 14px">Lucca, Italy</span></td>
 		<td><a href="http://www.ecir2020.org/" title="date: 2020-04-14..17, notify: 2019-11-30">2019-10-01<br></a><span style="color: #663333, font-size: 14px">Lisbon, Portugal</span></td>
 		<td><a href="http://ecir2019.org/" title="date: date: 2019-04-14..18, notify: 2018-12-04">2018-10-09<br></a><span style="color: #663333, font-size: 14px">Cologne, Germany</span></td>
 		<td><a href="https://www.ecir2018.org/" title="date: 2018-03-26..29, notify: 2017-12-01">2017-10-16<br></a><span style="color: #663333, font-size: 14px">Grenoble, France</span></td>
+	<td><a href="http://www.ecir2017.org" title="date: 2017-04-08..13, notify: 2016-12-02">2016-10-15<br></a><span style="color: #663333, font-size: 14px">Scotland, UK</span></td>
 	</tr>
 	<tr>
 		<td rowspan="2"><b><i>Nov</i></b></td>
