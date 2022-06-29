@@ -33,7 +33,7 @@ author_profile: true
 	</tr>
 	<tr>
 		<td>IJCAI</td>
-		<td><a href="https://ijcai-22.org/" title="date: 2022-07-23..29, notify: 2022-04-20">2022-01-07(abstract)<br>2022-01-14(full)<br>Vienna, Austria</a></td>
+		<td><a href="https://ijcai-22.org/" title="date: 2022-07-23..29, notify: 2022-04-20">2022-01-07(abstract)<br>2022-01-14(full)<br></a><span style="color: #663333, font-size: 14px">Vienna, Austria</span></td>
 		<td><a href="https://ijcai-21.org/" title="date: 2021-08-19..26, notify: 2021-03-07"><nobr>2021-01-13(abstract)</nobr><br>2021-01-20(full)<br></a><span style="color: #663333, font-size: 14px">Montreal, Canada</span></td>
 		<td><a href="https://static.ijcai.org/ijcai-pricai-2020-schedule/" title="date: 2020-07-11..17, notify: 2020-03-14"><nobr>2020-01-15(abstract)</nobr><br>2020-01-21(full)<br></a><span style="color: #663333, font-size: 14px">Tokyo, Japan</span></td>
 		<td><a href="https://www.ijcai19.org/" title="date: 2019-08-10..16, notify: 2019-04-09"><nobr>2019-02-19(abstract)</nobr><br>2019-02-25(full)<br></a><span style="color: #663333, font-size: 14px">Macao, China</span></td>
@@ -43,7 +43,7 @@ author_profile: true
 	</tr>
 		<tr>
 		<td>NAACL</td>
-		<td><a href="https://2022.naacl.org/calls/papers/" title="date: 2022-07-10..15, notify: 2022-04-07">2022-01-15<br>Seattle, WA, USA</a></td>
+		<td><a href="https://2022.naacl.org/calls/papers/" title="date: 2022-07-10..15, notify: 2022-04-07">2022-01-15<br></a><span style="color: #663333, font-size: 14px">Seattle, WA, USA</span></td>
 		<td><a href="https://2021.naacl.org/" title="date: 2021-06-06..11, notify: 2021-03-10">2021-11-23<br></a><span style="color: #663333, font-size: 14px">Online</span></td>
 		<td></td>
 		<td><a href="http://naacl2019.org/" title="date: 2019-06-03..05, notify: 2019-02-22"><nobr>2018-12-03(abstract)</nobr><br>2018-12-10(full)<br></a><span style="color: #663333, font-size: 14px">Hyatt Regency in Minneapolis</span></td>
