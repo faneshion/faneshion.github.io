@@ -175,7 +175,7 @@ author_profile: true
 	<tr>
 		<td rowspan="2"><b><i>Oct</i></b></td>
 		<td>WWW</td>
-		<td>-</td>
+		<td><a href="https://www2023.thewebconf.org/" title="date: 2025-05-01..05, notify: 2023-01-25">2022-10-6(abstract)<br>2022-10-13(full)<br></a><span style="color: #663333, font-size: 14px">Austin,TX,US</span></td>
 		<td><a href="https://www2022.thewebconf.org/" title="date: 2022-04-25..29, notify: 2022-01-13">2021-10-14(abstract)<br>2021-10-21(full)<br></a><span style="color: #663333, font-size: 14px">Online</span></td>
 		<td><a href="https://www2021.thewebconf.org/" title="date: 2021-04-19..23, notify: 2021-01-19">2020-10-19<br></a><span style="color: #663333, font-size: 14px">Ljubljana,Slovenia</span></td>
 		<td><a href="https://www2020.thewebconf.org/" title="date: 2020-04-20..25, notify: 2020-01-10">2019-10-07(abstract)<br>2019-10-14(full)<br></a><span style="color: #663333, font-size: 14px">TaiPei</span></td>
