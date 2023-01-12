@@ -5,14 +5,14 @@ author_profile: true
 ---
 <font size="4">The main conferences of IR and NLP sorted by deadline.</font> 
 
-
 <font size="3" color="grey">[Last Update: Aug-17-2022]</font>
 
 <table align="center">
 	<tr>
 		<td>Month</td>
 		<td>Venue</td>
-		<td>Deadline 2022</td>
+		<td>Deadline 2023</td>
+        <td>Deadline 2022</td>
 		<td><nobr>Deadline 2021</nobr></td>
 		<td><nobr>Deadline 2020</nobr></td>
 		<td>Deadline 2019</td>
@@ -23,6 +23,7 @@ author_profile: true
 	<tr>
 		<td rowspan="3"><b><i>Jan</i></b></td>
 		<td>SIGIR</td>
+		<td><a href="https://sigir.org/sigir2023/" title="date: 2022-07-23..27, notify: 2022-04-4"><nobr>2023-01-24(abstract)</nobr><br>2023-01-31(full)<br></a><span style="color: #663333, font-size: 14px">TaiPei</span></td>
 		<td><a href="https://sigir.org/sigir2022/" title="date: 2022-07-11..15, notify: 2022-04-29"><nobr>2022-01-21(abstract)</nobr><br>2022-01-28(full)<br></a><span style="color: #663333, font-size: 14px">Madrid</span></td>
 		<td><a href="https://sigir.org/sigir2021/" title="date: 2021-07-11..15, notify: 2021-02-14"><nobr>2021-02-02(abstract)</nobr><br>2021-02-09(full)<br></a><span style="color: #663333, font-size: 14px">Online</span></td>
 		<td><a href="https://sigir.org/sigir2020/" title="date: 2020-07-25..30, notify: 2020-04-22"><nobr>2020-01-15(abstract)</nobr><br>2020-01-22(full)<br></a><span style="color: #663333, font-size: 14px">XiAn, China</span></td>
@@ -33,6 +34,7 @@ author_profile: true
 	</tr>
 	<tr>
 		<td>IJCAI</td>
+		<td><a href="https://ijcai-23.org/" title="date: 2022-08-19..25, notify: 2023-04-19">2023-01-11(abstract)<br>2023-01-18(full)<br></a><span style="color: #663333, font-size: 14px">Cape Town, South Africa</span></td>
 		<td><a href="https://ijcai-22.org/" title="date: 2022-07-23..29, notify: 2022-04-20">2022-01-07(abstract)<br>2022-01-14(full)<br></a><span style="color: #663333, font-size: 14px">Vienna, Austria</span></td>
 		<td><a href="https://ijcai-21.org/" title="date: 2021-08-19..26, notify: 2021-03-07"><nobr>2021-01-13(abstract)</nobr><br>2021-01-20(full)<br></a><span style="color: #663333, font-size: 14px">Montreal, Canada</span></td>
 		<td><a href="https://static.ijcai.org/ijcai-pricai-2020-schedule/" title="date: 2020-07-11..17, notify: 2020-03-14"><nobr>2020-01-15(abstract)</nobr><br>2020-01-21(full)<br></a><span style="color: #663333, font-size: 14px">Tokyo, Japan</span></td>
@@ -43,6 +45,7 @@ author_profile: true
 	</tr>
 		<tr>
 		<td>NAACL</td>
+		<td></td>
 		<td><a href="https://2022.naacl.org/calls/papers/" title="date: 2022-07-10..15, notify: 2022-04-07">2022-01-15<br></a><span style="color: #663333, font-size: 14px">Seattle, WA, USA</span></td>
 		<td><a href="https://2021.naacl.org/" title="date: 2021-06-06..11, notify: 2021-03-10">2021-11-23<br></a><span style="color: #663333, font-size: 14px">Online</span></td>
 		<td></td>
@@ -54,6 +57,7 @@ author_profile: true
 	<tr>
 		<td rowspan="2"><b><i>Feb</i></b></td>
 		<td>KDD</td>
+		<td><a href="https://kdd.org/kdd2023/" title="date: 2022-08-6..10, notify: 2023-05-18">2023-02-02<br></a><span style="color: #663333, font-size: 14px">Long Beach</span></td>
 		<td><a href="https://kdd.org/kdd2022/" title="date: 2022-08-14..18, notify: 2022-05-19">2022-02-10<br></a><span style="color: #663333, font-size: 14px">Washington DC</span></td>
 		<td><a href="https://www.kdd.org/kdd2021" title="date: 2021-08-14..18, notify: 2021-05-17">2021-02-08<br></a><span style="color: #663333, font-size: 14px">Singapore</span></td>
 		<td><a href="https://www.kdd.org/kdd2020" title="date: 2020-08-22..27, notify: 2020-05-15">2020-02-13<br></a><span style="color: #663333, font-size: 14px">San Diego, California, USA</span></td>
@@ -64,6 +68,7 @@ author_profile: true
 	</tr>
 	<tr>
 		<td>ICML</td>
+		<td><a href="https://icml.cc/Conferences/2023/" title="date: 2023-07-23..29, notify: 2023-04-22">2023-01-26(full)<br></a><span style="color: #663333, font-size: 14px">Honolulu, Hawai'i</span></td>
 		<td><a href="https://icml.cc/Conferences/2022/" title="date: 2022-07-17..23, notify: 2022-03-21">2022-01-27(abstract)<br>2022-02-03(full)<br></a><span style="color: #663333, font-size: 14px">Baltimore, United States</span></td>
 		<td><a href="https://icml.cc/Conferences/2021/CallForPapers" title="date: 2021-07-18..24, notify: 2021-05-08">2021-01-28(abstract)<br>2022-02-04(full)<br></a><span style="color: #663333, font-size: 14px">Online</span></td>
 		<td><a href="https://icml.cc/Conferences/2020" title="date: 2020-07-12..18, notify: 2020-05-09">2020-01-30(abstract)<br>2020-02-06(full)<br></a><span style="color: #663333, font-size: 14px">Vienna, AUSTRIA</span></td>
@@ -74,6 +79,7 @@ author_profile: true
 	</tr>
 	<tr>
 		<td rowspan="1"><b><i>Mar</i></b></td>
+		<td></td>
 		<td></td>
 		<td></td>
 		<td></td>
@@ -93,10 +99,12 @@ author_profile: true
 		<td></td>
 		<td></td>
 		<td></td>
+		<td></td>
 	</tr>
 	<tr>
 		<td rowspan="2"><b><i>May</i></b></td>
 		<td>CIKM</td>
+		<td></td>
 		<td><a href="https://www.cikm2022.org/" title="date: 2022-10-17..22, notify: 2022-08-01">2022-05-12(full)<br></a><span style="color: #663333, font-size: 14px">Georgia, USA</span></td>
 		<td><a href="https://www.cikm2021.org/" title="date: 2021-11-01..5, notify: 2021-07-05">2021-11-01<br></a><span style="color: #663333, font-size: 14px">Online</span></td>
 		<td><a href="https://www.cikm2020.org/" title="date: 2020-10-19..23, notify: 2020-07-06">2020-10-19<br></a><span style="color: #663333, font-size: 14px">Online</span></td>
@@ -107,6 +115,7 @@ author_profile: true
 	</tr>
 	<tr>
 		<td>NIPS</td>
+		<td></td>
 		<td><a href="https://neurips.cc/Conferences/2022/CallForPapers" title="date: 2022-11-28..12-08, notify: 2022-09-14">2022-05-16(abstract)<br>2022-05-19(full)<br></a><span style="color: #663333, font-size: 14px">New Orleans, LA. Hybrid</span></td>
 		<td><a href="https://nips.cc/Conferences/2021" title="date: 2021-12-06..14, notify: 2021-09-28">2021-05-19(abstract)<br>2021-05-26(full)<br></a><span style="color: #663333, font-size: 14px">Online</span></td>
 		<td><a href="https://nips.cc/Conferences/2020/CallForPapers" title="date: 2020-12-06..12, notify: 2020-09-25">2020-05-27(abstract)<br>2020-06-03(full)<br></a><span style="color: #663333, font-size: 14px">Vancouver, Canada</span></td>
@@ -118,6 +127,7 @@ author_profile: true
 	<tr>
 		<td rowspan="1"><b><i>Jun</i></b></td>
 		<td>EMNLP</td>
+		<td></td>
 		<td><a href="https://2022.emnlp.org/" title="date: 2022-12-09..11, notify: 2022-10-06">2022-06-17(abstract)<br>2022-06-24(full)<br></a><span style="color: #663333, font-size: 14px">Abu Dhabi</span></td>
 		<td><a href="https://2021.emnlp.org/" title="date: 2021-11-07..09, notify: 2021-08-25">2021-05-10(abstract)<br>2021-05-17(full)<br></a><span style="color: #663333, font-size: 14px">Online</span></td>
 		<td><a href="https://2020.emnlp.org/" title="date: 2020-11-16..18, notify: 2020-09-14">2020-05-11<br></a><span style="color: #663333, font-size: 14px">Online</span></td>
@@ -136,11 +146,13 @@ author_profile: true
 		<td></td>
 		<td></td>
 		<td></td>
+		<td></td>
 	</tr>
 
 	<tr>
 		<td rowspan="2"><b><i>Aug</i></b></td>
 		<td>WSDM<br></td>
+		<td></td>
 		<td><a href="https://www.wsdm-conference.org/2023/" title="date: 2023-02-27..03-03, notify: 2022-10-21">2022-08-12<br></a><span style="color: #663333, font-size: 14px">Sigapoer</span></td>
 		<td><a href="https://www.wsdm-conference.org/2022/" title="date: 2022-02-21..25, notify: 2021-10-11">2021-08-13<br></a><span style="color: #663333, font-size: 14px">Online</span></td>
 		<td><a href="https://www.wsdm-conference.org/2021/" title="date: 2022-02-21..25, notify: 2021-10-11">2021-08-13<br></a><span style="color: #663333, font-size: 14px">Online</span></td>
@@ -151,6 +163,7 @@ author_profile: true
 	</tr>
 	<tr>
 		<td>AAAI</td>
+		<td></td>
 		<td><a href="https://aaai.org/Conferences/AAAI-23/" title="date: 2023-02-07..14, notify: 2022-11-07">2022-08-08(abstract)<br>2022-08-15(full)<br></a><span style="color: #663333, font-size: 14px">Washington DC, USA</span></td>
 		<td><a href="https://aaai.org/Conferences/AAAI-22/" title="date: 2022-02-22..03-01, notify: 2021-11-29">2021-08-30(abstract)<br>2021-09-08(full)<br></a><span style="color: #663333, font-size: 14px">Online</span></td>
 		<td><a href="https://aaai.org/Conferences/AAAI-21/" title="date: 2021-02-02..09, notify: 2020-12-01">2020-08-13<br></a><span style="color: #663333, font-size: 14px">British Columbia, Canada</span></td>
@@ -163,6 +176,7 @@ author_profile: true
 	<tr>
 		<td rowspan="1"><b><i>Sep</i></b></td>
 		<td>ICLR</td>
+		<td></td>
 		<td><a href="https://iclr.cc/Conferences/2023" title="date: 2022-05-01..05, notify: 2022-11-04">2022-09-21(abstract)<br>2022-09-28(full)<br></a><span style="color: #663333, font-size: 14px">Kigali,Rwanda</span></td>
 		<td><a href="https://iclr.cc/Conferences/2022" title="date: 2022-04-25..29, notify: 2022-01-24">2021-09-29(abstract)<br>2021-10-06(full)<br></a><span style="color: #663333, font-size: 14px">Online</span></td>
 		<td><a href="https://iclr.cc/Conferences/2021/CallForPapers" title="date: 2021-05-04..08, notify: 2021-01-02">2020-09-28(abstract)<br>2020-10-02(full)<br></a><span style="color: #663333, font-size: 14px">Vienna, Austria</span></td>
@@ -175,6 +189,7 @@ author_profile: true
 	<tr>
 		<td rowspan="2"><b><i>Oct</i></b></td>
 		<td>WWW</td>
+		<td></td>
 		<td><a href="https://www2023.thewebconf.org/" title="date: 2025-05-01..05, notify: 2023-01-25">2022-10-6(abstract)<br>2022-10-13(full)<br></a><span style="color: #663333, font-size: 14px">Austin,TX,US</span></td>
 		<td><a href="https://www2022.thewebconf.org/" title="date: 2022-04-25..29, notify: 2022-01-13">2021-10-14(abstract)<br>2021-10-21(full)<br></a><span style="color: #663333, font-size: 14px">Online</span></td>
 		<td><a href="https://www2021.thewebconf.org/" title="date: 2021-04-19..23, notify: 2021-01-19">2020-10-19<br></a><span style="color: #663333, font-size: 14px">Ljubljana,Slovenia</span></td>
@@ -185,6 +200,7 @@ author_profile: true
 	</tr>
 	<tr>
 		<td>ECIR</td>
+		<td></td>
 		<td><a href="http://ecir2023.org/" title="date: 2023-04-02..06, notify: 2022-12-12">2022-10-07<br></a><span style="color: #663333, font-size: 14px">Dublin, Ireland</span></td>
 		<td><a href="https://ecir2022.org" title="date: 2022-04-10..14, notify: 2021-11-18">2021-10-07<br></a><span style="color: #663333, font-size: 14px">Stavanger, Norway</span></td>
 		<td><a href="https://www.ecir2021.eu/" title="date: 2021-03-28..04-01, notify: 2020-12-15">2020-10-15<br></a><span style="color: #663333, font-size: 14px">Lucca, Italy</span></td>
@@ -197,6 +213,7 @@ author_profile: true
 		<td rowspan="2"><b><i>Nov</i></b></td>
 		<td>ACL</td>
 		<td>-</td>
+		<td><a href="https://www.2023.aclweb.org/" title="date: 2023-07-09..14, notify: 2023-05-01">2022-12-15<br></a><span style="color: #663333, font-size: 14px">Toronto, Canada</span></td>
 		<td><a href="https://www.2022.aclweb.org/" title="date: 2022-05-22..27, notify: 2022-02-20">2021-11-15<br></a><span style="color: #663333, font-size: 14px">Chengdu, China</span></td>
 		<td><a href="https://2021.aclweb.org/" title="date: 2021-08-02..04, notify: 2021-05-05">2021-02-02<br></a><span style="color: #663333, font-size: 14px">Online</span></td>
 		<td><a href="https://acl2020.org/" title="date: 2020-07-05..10, notify: 2020-04-03">2019-12-09<br></a><span style="color: #663333, font-size: 14px">Seattle, WA</span></td>
@@ -207,6 +224,7 @@ author_profile: true
 	<tr>
 		<td>PAKDD</td>
 		<td>-</td>
+		<td><a href="http://www.pakdd2023.net/" title="date: 2023-05-25..28, notify: 2023-02-07">2022-12-07<br></a><span style="color: #663333, font-size: 14px">OSaka,Japan</span></td>
 		<td><a href="http://www.pakdd.net/" title="date: 2022-05-16..19, notify: 2022-01-15">2021-11-15<br></a><span style="color: #663333, font-size: 14px">Chengdu, China</span></td>
 		<td><a href="https://pakdd2021.org/" title="date: 2021-05-11..14, notify: 2021-02-01">2020-11-23(abstract)<br>2020-11-30(full)<br></a><span style="color: #663333, font-size: 14px">Delhi, India</span></td>
 		<td><a href="https://research.com/conference/pakdd-2020" title="date: 2020-05-11..14, notify: -">2019-11-18<br></a><span style="color: #663333, font-size: 14px">Singapore</span></td>
