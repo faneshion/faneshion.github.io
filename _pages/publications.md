@@ -10,15 +10,22 @@ IN THE YEAR OF 2022
 ------
 <ul>
 <li>
-Yuanzheng Wang, Xueqi Cheng, <b>Yixing Fan*</b>, Xiaofei Zhu, Huasheng Liang, Qiang Yan, and Jiafeng Guo. <a target='new' href=''> MGAD: Learning Descriptional Representation Distilled from Distributional Semantics for Unseen Entities </a>. <i> the 31st International Joint Conference on Artificial Intelligence (<b>IJCAI 2022</b>)</i>. New Orleans, Louisiana (<b>Oral Full Paper, Acceptance Rate = 15%</b>)
+Wenxiang Sun, <b>Yixing Fan</b>, Jiafeng Guo, Ruqing Zhang and Xueqi Cheng. <a target='new' href='https://arxiv.org/pdf/2211.04872'>Visual Named Entity Linking: A New Dataset and A Baseline</a>. <i>The 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP 2022 Findings)</i>
+</li>
+<li>
+Lu Chen, Ruqing Zhang, Jiafeng Guo, <b>Yixing Fan</b> and Xueqi Cheng. <a target='new' href='https://dl.acm.org/doi/pdf/10.1145/3511808.3557582'>Discriminative Language Model via Self-Teaching for Dense Retrieval</a>. <i>The 31st ACM International Conference on Information and Knowledge Management (CIKM2022). Hybrid Conference (Short Paper)</i>
 </li>
 
 <li>
-<b>Yixing Fan</b>, Xiaohui Xie, Yinqiong Cai, Jia Chen, Xinyu Ma, Xiangsheng Li, Ruqing Zhang, Jiafeng Guo. <a target='new' href='https://arxiv.org/pdf/2111.13853.pdf'>Pre-training Methods in Information Retrieval</a>. <i>arXiv preprint arXiv:2111.13853</i>.
+Yuanzheng Wang, Xueqi Cheng, <b>Yixing Fan*</b>, Xiaofei Zhu, Huasheng Liang, Qiang Yan, and Jiafeng Guo. <a target='new' href='https://www.ijcai.org/proceedings/2022/0611.pdf'> MGAD: Learning Descriptional Representation Distilled from Distributional Semantics for Unseen Entities </a>. <i> the 31st International Joint Conference on Artificial Intelligence (<b>IJCAI 2022</b>)</i>. New Orleans, Louisiana (<b>Oral Full Paper, Acceptance Rate = 15%</b>)
 </li>
 
 <li>
-Chen Wu, Ruqing Zhang, Jiafeng Guo, Maarten de Rijke, <b>Yixing Fan</b>, Xueqi Cheng. <a target='new' href='https://arxiv.org/abs/2204.01321'> PRADA: Practical Black-Box Adversarial Attacks against Neural Ranking Models </a>. <i>arXiv preprint arXiv:2204.01321</i>. 
+<b>Yixing Fan</b>, Xiaohui Xie, Yinqiong Cai, Jia Chen, Xinyu Ma, Xiangsheng Li, Ruqing Zhang, Jiafeng Guo. <a target='new' href='https://arxiv.org/pdf/2111.13853.pdf'>Pre-training Methods in Information Retrieval</a>. <i>Foundations and Trends® in Information Retrieval: Vol. 16, No. 3, pp 178–317. DOI: 10.1561/1500000100.</i>.
+</li>
+
+<li>
+Chen Wu, Ruqing Zhang, Jiafeng Guo, Maarten de Rijke, <b>Yixing Fan</b>, Xueqi Cheng. <a target='new' href='https://arxiv.org/abs/2204.01321'> PRADA: Practical Black-Box Adversarial Attacks against Neural Ranking Models </a>. <i>ACM Transactions on Information Systems (TOIS).</i>. 
 </li>
 
 <li>
