@@ -13,7 +13,22 @@ IN THE YEAR OF 2022
 Wenxiang Sun, <b>Yixing Fan</b>, Jiafeng Guo, Ruqing Zhang and Xueqi Cheng. <a target='new' href='https://arxiv.org/pdf/2211.04872'>Visual Named Entity Linking: A New Dataset and A Baseline</a>. <i>The 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP 2022 Findings)</i>
 </li>
 <li>
-Lu Chen, Ruqing Zhang, Jiafeng Guo, <b>Yixing Fan</b> and Xueqi Cheng. <a target='new' href='https://dl.acm.org/doi/pdf/10.1145/3511808.3557582'>Discriminative Language Model via Self-Teaching for Dense Retrieval</a>. <i>The 31st ACM International Conference on Information and Knowledge Management (CIKM2022). Hybrid Conference (Short Paper)</i>
+Jiangui Chen, Ruqing Zhang, Jiafeng Guo, Yiqun Liu, <b>Yixing Fan</b> and Xueqi Cheng. <a target='new' href='https://dl.acm.org/doi/pdf/10.1145/3511808.3557271'>CorpusBrain: Pre-train a Generative Retrieval Model for Knowledge-Intensive Language Tasks</a>. <i>The 31st ACM International Conference on Information and Knowledge Management (<b>CIKM2022</b>). Hybrid Conference (Full Paper)</i>
+</li>
+<li>
+Chen Wu, Ruqing Zhang, Jiafeng Guo, Wei Chen, <b>Yixing Fan</b>, Maarten de Rijke and Xueqi Cheng. <a target='new' href='https://dl.acm.org/doi/pdf/10.1145/3511808.3557256'>Certified Robustness to Word Substitution Ranking Attack for Neural Ranking Models</a>. <i>The 31st ACM International Conference on Information and Knowledge Management (<b>CIKM2022</b>). Hybrid Conference (Full Paper)</i>
+</li>
+<li>
+Xinyu Ma, Jiafeng Guo, Ruqing Zhang, <b>Yixing Fan</b> and Xueqi Cheng. <a target='new' href='https://dl.acm.org/doi/pdf/10.1145/3511808.3557445'>Scattered or Connected? An Optimized Parameter-efficient Tuning Approach for Information Retrieval</a>. <i>The 31st ACM International Conference on Information and Knowledge Management (<b>CIKM2022</b>). Hybrid Conference (Full Paper)</i>
+</li>
+<li>
+Yinqiong Cai, Jiafeng Guo, <b>Yixing Fan</b>, Qingyao Ai, Ruqing Zhang and Xueqi Cheng.  <a target='new' href='https://dl.acm.org/doi/pdf/10.1145/3511808.3557343'>Hard Negatives or False Negatives: Correcting Pooling Bias in Training Neural Ranking Models</a>. <i>The 31st ACM International Conference on Information and Knowledge Management (<b>CIKM2022</b>). Hybrid Conference (Full Paper)</i>
+</li>
+<li>
+Xinyu Ma, Ruqing Zhang, Jiafeng Guo, <b>Yixing Fan</b> and Xueqi Cheng. <a target='new' href='https://dl.acm.org/doi/pdf/10.1145/3511808.3557527'>A Contrastive Pre-training Approach to Discriminative Autoencoder for Dense Retrieval</a>. <i>The 31st ACM International Conference on Information and Knowledge Management (<b>CIKM2022</b>). Hybrid Conference (Short Paper)</i>
+</li>
+<li>
+Lu Chen, Ruqing Zhang, Jiafeng Guo, <b>Yixing Fan</b> and Xueqi Cheng. <a target='new' href='https://dl.acm.org/doi/pdf/10.1145/3511808.3557582'>Discriminative Language Model via Self-Teaching for Dense Retrieval</a>. <i>The 31st ACM International Conference on Information and Knowledge Management (<b>CIKM2022</b>). Hybrid Conference (Short Paper)</i>
 </li>
 
 <li>
