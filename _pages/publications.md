@@ -5,42 +5,55 @@ permalink: /publications/
 author_profile: true
 ---
 
+IN THE YEAR OF 2023
+------
+<ul>
+
+<li>
+<b>Yixing Fan</b>, Yubao Tang, Jiangui Chen, Ruqing Zhang, Jiafeng Guo. <a target='new' href=''>Challenges and Advances in Generative Information Retrieval</a>. <i>The 22nd China National Conference on Computational Linguistics(<b>CCL 2023</b>)</i>. Harbin, China
+</li>
+
+<li>
+Yinqiong Cai, Keping Bi, <b>Yixing Fan</b>, Jiafeng Guo, Wei Chen and Xueqi Cheng. <a target='new' href=''>L^2R: Lifelong Learning for First-stage Retrieval with Backward-Compatible Representations</a>. <i>32nd ACM International Conference on Information and Knowledge Management (<b>CIKM 2023</b>)</i>. Birmingham, UK. (<b>Full Paper, Acceptance Rate = 24%</b>)
+</li>
+
+<li>
+Jiangui Chen, Ruqing Zhang, Jiafeng Guo, Maarten de Rijke, Wei Chen, <b>Yixing Fan</b> and Xueqi Cheng. <a target='new' href=''>Continual Learning for Generative Retrieval over Dynamic Corpora</a>. <i>32nd ACM International Conference on Information and Knowledge Management (<b>CIKM 2023</b>)</i>. Birmingham, UK. (<b>Full Paper, Acceptance Rate = 24%</b>)
+</li>
+
+<li>
+Yuan Liu, Ruqing Zhang, Jiafeng Guo, Maarten de Rijke, Wei Chen, <b>Yixing Fan</b> and Xueqi Cheng. <a target='new' href=''>Black-box Adversarial Attacks against Dense Retrieval Models: A Multi-view Contrastive Learning Method</a>. <i>32nd ACM International Conference on Information and Knowledge Management (<b>CIKM 2023</b>)</i>. Birmingham, UK. (<b>Full Paper, Acceptance Rate = 24%</b>)
+</li>
+
+
+
+<li>
+Jiangui Chen, Ruqing Zhang, Jiafeng Guo, Maarten de Rijke, Yiqun Liu, <b>Yixing Fan</b> and Xueqi Cheng. <a target='new' href='https://arxiv.org/pdf/2304.14856.pdf'>A Unified Generative Retriever for Knowledge-Intensive Language Tasks via Prompt Learning</a>. <i>The 46th International ACM SIGIR Conference on Research and Development in Information Retrieval (<b>SIGIR 2023</b>)</i>. (<b>Full Paper, Acceptance Rate = 20.1%</b>)
+</li>
+
+<li>
+Yuan Liu, Ruqing Zhang, Jiafeng Guo, Maarten de Rijke, Wei Chen, <b>Yixing Fan</b> and Xueqi Cheng. <a target='new' href='https://arxiv.org/pdf/2304.14867.pdf'>Topic-oriented Adversarial Attacks against Black-box Neural Ranking Models</a>. <i>The 46th International ACM SIGIR Conference on Research and Development in Information Retrieval (<b>SIGIR 2023</b>)</i>. (<b>Full Paper, Acceptance Rate = 20.1%</b>)
+</li>
+
+<li>
+Yiyi Liu, Ruqing Zhang, <b>Yixing Fan</b>, Jiafeng Guo and Xueqi Cheng. <a target='new' href='https://aclanthology.org/2023.eacl-main.25.pdf'>Prompt Tuning with Contradictory Intentions for Sarcasm Recognition</a>. <i>The 17th Conference of the European Chapter of the Association for Computational Linguistics (<b>EACL 2023 Main</b>)</i>.  (<b>Full Paper</b>)
+</li>
+</ul>
 
 IN THE YEAR OF 2022
 ------
 <ul>
 <li>
-Wenxiang Sun, <b>Yixing Fan</b>, Jiafeng Guo, Ruqing Zhang and Xueqi Cheng. <a target='new' href='https://arxiv.org/pdf/2211.04872'>Visual Named Entity Linking: A New Dataset and A Baseline</a>. <i>The 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP 2022 Findings)</i>
+Yuanzheng Wang, Xueqi Cheng, <b>Yixing Fan*</b>, Xiaofei Zhu, Huasheng Liang, Qiang Yan, and Jiafeng Guo. <a target='new' href=''> MGAD: Learning Descriptional Representation Distilled from Distributional Semantics for Unseen Entities </a>. <i> the 31st International Joint Conference on Artificial Intelligence (<b>IJCAI 2022</b>)</i>. New Orleans, Louisiana (<b>Oral Full Paper, Acceptance Rate = 15%</b>)
+</li>
+<li>Yuting Wang, Yiyi Liu, Ruqing Zhang, <b>Yixing Fan</b> and Jiafeng Guo. <a target='new' href='https://aclanthology.org/2022.flp-1.11.pdf'> Euphemism Detection by Transformers and Relational Graph Attention Network</a>. <i> Proceedings of the 3rd Workshop on Figurative Language Processing (FLP). </i>
 </li>
 <li>
-Jiangui Chen, Ruqing Zhang, Jiafeng Guo, Yiqun Liu, <b>Yixing Fan</b> and Xueqi Cheng. <a target='new' href='https://dl.acm.org/doi/pdf/10.1145/3511808.3557271'>CorpusBrain: Pre-train a Generative Retrieval Model for Knowledge-Intensive Language Tasks</a>. <i>The 31st ACM International Conference on Information and Knowledge Management (<b>CIKM2022</b>). Hybrid Conference (Full Paper)</i>
-</li>
-<li>
-Chen Wu, Ruqing Zhang, Jiafeng Guo, Wei Chen, <b>Yixing Fan</b>, Maarten de Rijke and Xueqi Cheng. <a target='new' href='https://dl.acm.org/doi/pdf/10.1145/3511808.3557256'>Certified Robustness to Word Substitution Ranking Attack for Neural Ranking Models</a>. <i>The 31st ACM International Conference on Information and Knowledge Management (<b>CIKM2022</b>). Hybrid Conference (Full Paper)</i>
-</li>
-<li>
-Xinyu Ma, Jiafeng Guo, Ruqing Zhang, <b>Yixing Fan</b> and Xueqi Cheng. <a target='new' href='https://dl.acm.org/doi/pdf/10.1145/3511808.3557445'>Scattered or Connected? An Optimized Parameter-efficient Tuning Approach for Information Retrieval</a>. <i>The 31st ACM International Conference on Information and Knowledge Management (<b>CIKM2022</b>). Hybrid Conference (Full Paper)</i>
-</li>
-<li>
-Yinqiong Cai, Jiafeng Guo, <b>Yixing Fan</b>, Qingyao Ai, Ruqing Zhang and Xueqi Cheng.  <a target='new' href='https://dl.acm.org/doi/pdf/10.1145/3511808.3557343'>Hard Negatives or False Negatives: Correcting Pooling Bias in Training Neural Ranking Models</a>. <i>The 31st ACM International Conference on Information and Knowledge Management (<b>CIKM2022</b>). Hybrid Conference (Full Paper)</i>
-</li>
-<li>
-Xinyu Ma, Ruqing Zhang, Jiafeng Guo, <b>Yixing Fan</b> and Xueqi Cheng. <a target='new' href='https://dl.acm.org/doi/pdf/10.1145/3511808.3557527'>A Contrastive Pre-training Approach to Discriminative Autoencoder for Dense Retrieval</a>. <i>The 31st ACM International Conference on Information and Knowledge Management (<b>CIKM2022</b>). Hybrid Conference (Short Paper)</i>
-</li>
-<li>
-Lu Chen, Ruqing Zhang, Jiafeng Guo, <b>Yixing Fan</b> and Xueqi Cheng. <a target='new' href='https://dl.acm.org/doi/pdf/10.1145/3511808.3557582'>Discriminative Language Model via Self-Teaching for Dense Retrieval</a>. <i>The 31st ACM International Conference on Information and Knowledge Management (<b>CIKM2022</b>). Hybrid Conference (Short Paper)</i>
+<b>Yixing Fan</b>, Xiaohui Xie, Yinqiong Cai, Jia Chen, Xinyu Ma, Xiangsheng Li, Ruqing Zhang, Jiafeng Guo. <a target='new' href='https://arxiv.org/pdf/2111.13853.pdf'>Pre-training Methods in Information Retrieval</a>. <i>Foundations and Trends in Information Retrieval, Volume 16 Issue 3, Aug 2022, pp 178–317</i>.
 </li>
 
 <li>
-Yuanzheng Wang, Xueqi Cheng, <b>Yixing Fan*</b>, Xiaofei Zhu, Huasheng Liang, Qiang Yan, and Jiafeng Guo. <a target='new' href='https://www.ijcai.org/proceedings/2022/0611.pdf'> MGAD: Learning Descriptional Representation Distilled from Distributional Semantics for Unseen Entities </a>. <i> the 31st International Joint Conference on Artificial Intelligence (<b>IJCAI 2022</b>)</i>. New Orleans, Louisiana (<b>Oral Full Paper, Acceptance Rate = 15%</b>)
-</li>
-
-<li>
-<b>Yixing Fan</b>, Xiaohui Xie, Yinqiong Cai, Jia Chen, Xinyu Ma, Xiangsheng Li, Ruqing Zhang, Jiafeng Guo. <a target='new' href='https://arxiv.org/pdf/2111.13853.pdf'>Pre-training Methods in Information Retrieval</a>. <i>Foundations and Trends® in Information Retrieval: Vol. 16, No. 3, pp 178–317. DOI: 10.1561/1500000100.</i>.
-</li>
-
-<li>
-Chen Wu, Ruqing Zhang, Jiafeng Guo, Maarten de Rijke, <b>Yixing Fan</b>, Xueqi Cheng. <a target='new' href='https://arxiv.org/abs/2204.01321'> PRADA: Practical Black-Box Adversarial Attacks against Neural Ranking Models </a>. <i>ACM Transactions on Information Systems (TOIS).</i>. 
+Chen Wu, Ruqing Zhang, Jiafeng Guo, Maarten de Rijke, <b>Yixing Fan</b>, Xueqi Cheng. <a target='new' href='https://arxiv.org/abs/2204.01321'> PRADA: Practical Black-Box Adversarial Attacks against Neural Ranking Models </a>. <i>ACM Transactions on Information Systems, Volume 41 Issue 4, April 2023, pp 1–27</i>. 
 </li>
 
 <li>
