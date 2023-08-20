@@ -25,7 +25,9 @@ Jiangui Chen, Ruqing Zhang, Jiafeng Guo, Maarten de Rijke, Wei Chen, <b>Yixing F
 Yuan Liu, Ruqing Zhang, Jiafeng Guo, Maarten de Rijke, Wei Chen, <b>Yixing Fan</b> and Xueqi Cheng. <a target='new' href=''>Black-box Adversarial Attacks against Dense Retrieval Models: A Multi-view Contrastive Learning Method</a>. <i>32nd ACM International Conference on Information and Knowledge Management (<b>CIKM 2023</b>)</i>. Birmingham, UK. (<b>Full Paper, Acceptance Rate = 24%</b>)
 </li>
 
-
+<li>
+Xiaojie Sun, Keping Bi, Jiafeng Guo, Xinyu Ma, <b>Yixing Fan</b>,  Hongyu Shan, Qishen Zhang, and Zhongyi Liu. <a target='new' href=''>Pre-training with Aspect-Content Text Mutual Prediction for Multi-Aspect Dense Retrieval</a>. <i>32nd ACM International Conference on Information and Knowledge Management (<b>CIKM 2023</b>)</i>. Birmingham, UK. (<b>Short Paper, Acceptance Rate = 24%</b>)
+</li>
 
 <li>
 Jiangui Chen, Ruqing Zhang, Jiafeng Guo, Maarten de Rijke, Yiqun Liu, <b>Yixing Fan</b> and Xueqi Cheng. <a target='new' href='https://arxiv.org/pdf/2304.14856.pdf'>A Unified Generative Retriever for Knowledge-Intensive Language Tasks via Prompt Learning</a>. <i>The 46th International ACM SIGIR Conference on Research and Development in Information Retrieval (<b>SIGIR 2023</b>)</i>. (<b>Full Paper, Acceptance Rate = 20.1%</b>)
