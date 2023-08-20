@@ -80,7 +80,7 @@ Jiangui Chen, Ruqing Zhang, Jiafeng Guo, <b>Yixing Fan</b>, and Xueqi Cheng. <a 
 </li>
 
 <li>
-Chen Wu, Ruqing Zhang, Jiafeng Guo, <b>Yixing Fan</b>, and Xueqi Cheng. <a target='new' href='https://arxiv.org/abs/2108.05018'>Are Neural Ranking Models Robust?</a>. <i>arXiv preprint arXiv:2108:05018</i>.
+Chen Wu, Ruqing Zhang, Jiafeng Guo, <b>Yixing Fan</b>, and Xueqi Cheng. <a target='new' href='https://dl.acm.org/doi/10.1145/3534928'>Are Neural Ranking Models Robust?</a>. <i>ACM Transactions on Information Systems (<b>TOIS</b>), Volume 41, Issue 2, https://doi.org/10.1145/3534928</i>.
 </li>
 
 <li>
