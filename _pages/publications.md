@@ -109,11 +109,11 @@ Lixin Su, Ruqing Zhang, Jiafeng Guo, <b>Yixing Fan</b>, Jiangui Chen, Yanyan Lan
 </li>
 
 <li>
-Xinyu Ma, Jiafeng Guo, Ruqing Zhang, <b>Yixing Fan</b>, Xiang Ji, and Xueqi Cheng. <a target='new' href='https://arxiv.org/abs/2010.10137'>PROP: Pre-training with Representative Words Prediction for Ad-hoc Retrieval</a>. <i> The 14th ACM International Conference on Web Search and Data Mining (<b>WSDM2021</b>)</i>. Virtual Event (<b>Full Oral Paper, Acceptance Rate = 18.6%</b>)
+Xinyu Ma, Jiafeng Guo, Ruqing Zhang, <b>Yixing Fan</b>, Xiang Ji, and Xueqi Cheng. <a target='new' href='https://arxiv.org/abs/2010.10137'>PROP: Pre-training with Representative Words Prediction for Ad-hoc Retrieval</a>. <i> The 14th ACM International Conference on Web Search and Data Mining (<b>WSDM2021</b>)</i>. Virtual Event (<b>Full Oral Paper, Acceptance Rate = 18.6%</b>), Published: 08 March 2021.
 </li>
 
 <li>
-<b>Yixing Fan</b>, Jiafeng Guo, Xinyu Ma, Ruqing Zhang, Yanyan Lan and Xueqi Cheng. <a target='new' href='https://arxiv.org/abs/2103.00956'>A Linguistic Study on Relevance Modeling in Information Retrieval</a>.  <i>30th The Web Conference (<b>WebConf2021</b>)</i>. Ljubljana, Slovenia. (<b>Full Paper, Acceptance Rate = 20.6%</b>)
+<b>Yixing Fan</b>, Jiafeng Guo, Xinyu Ma, Ruqing Zhang, Yanyan Lan and Xueqi Cheng. <a target='new' href='https://arxiv.org/abs/2103.00956'>A Linguistic Study on Relevance Modeling in Information Retrieval</a>.  <i>30th The Web Conference (<b>WebConf2021</b>)</i>. Ljubljana, Slovenia. (<b>Full Paper, Acceptance Rate = 20.6%</b>), Published: 03 June 2021.
 </li>
 </ul>
 
