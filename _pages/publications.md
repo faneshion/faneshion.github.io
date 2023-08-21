@@ -70,6 +70,13 @@ Xinyu Ma, Jiafeng Guo, Ruqing Zhang, <b>Yixing Fan</b>, Xueqi Cheng. <a target='
 Sihao Yu, Jiafeng Guo, Ruqing Zhang, <b>Yixing Fan</b>, Zizhen Wang and Xueqi Cheng. <a target='new' href=''> A Re-Balancing Strategy for Class-Imbalanced Classification Based on Instance Difficulty </a>. <i> 2022 Conference on Computer Vision and Pattern Recognition  (<b>CVPR2022</b>)</i>. New Orleans, Louisiana (<b>Full Paper, Acceptance Rate = 25.3%</b>)
 </li>
 
+<li>
+Chen Wu, Ruqing Zhang, Jiafeng Guo, <b>Yixing Fan</b>, and Xueqi Cheng. <a target='new' href='https://dl.acm.org/doi/10.1145/3534928'>Are Neural Ranking Models Robust?</a>. <i>ACM Transactions on Information Systems (<b>TOIS</b>), Volume 41, Issue 2, https://doi.org/10.1145/3534928, 21 December 2022.</i>
+</li>
+
+<li>
+Jiafeng Guo, Yinqiong Cai, <b>Yixing Fan</b>, Fei Sun, Ruqing Zhang, Xueqi Cheng. <a target='new' href='https://arxiv.org/pdf/2103.04831.pdf'>Semantic Models for the First-stage Retrieval: A Comprehensive Review</a>. <i> ACM Transactions on Information Systems (<b>TOIS</b>), Volume 40, Issue 4, https://doi.org/10.1145/3486250, 24 March 2022. </i>
+</li>
 
 </ul>
 
@@ -82,19 +89,11 @@ Jiangui Chen, Ruqing Zhang, Jiafeng Guo, <b>Yixing Fan</b>, and Xueqi Cheng. <a 
 </li>
 
 <li>
-Chen Wu, Ruqing Zhang, Jiafeng Guo, <b>Yixing Fan</b>, and Xueqi Cheng. <a target='new' href='https://dl.acm.org/doi/10.1145/3534928'>Are Neural Ranking Models Robust?</a>. <i>ACM Transactions on Information Systems (<b>TOIS</b>), Volume 41, Issue 2, https://doi.org/10.1145/3534928</i>.
-</li>
-
-<li>
-Ruqing Zhang, Jiafeng Guo, Lu Chen, <b>Yixing Fan</b>, and Xueqi Cheng. <a target='new' href='https://dl.acm.org/doi/abs/10.1145/3468889'>A Review on Question Generation from Natural Language Text</a>. <i> ACM Transactions on Information Systems (<b>TOIS</b>). </i>
+Ruqing Zhang, Jiafeng Guo, Lu Chen, <b>Yixing Fan</b>, and Xueqi Cheng. <a target='new' href='https://dl.acm.org/doi/abs/10.1145/3468889'>A Review on Question Generation from Natural Language Text</a>. <i> ACM Transactions on Information Systems (<b>TOIS</b>), Volume 40, Issue 1, https://doi.org/10.1145/3468889, 08 September 2021. </i>
 </li>
 
 <li>
 Yinqiong Cai, <b>Yixing Fan</b>, Jiafeng Guo, Ruqing Zhang, Yanyan Lan and Xueqi Cheng. <a target='new' href='https://dl.acm.org/doi/abs/10.1145/3471158.3472227'>A Discriminative Semantic Ranker for Question Retrieval</a>. <i>The 7th ACM SIGIR International Conference on the Theory of Information Retrieval (<b>ICTIR2021</b>) </i>.
-</li>
-
-<li>
-Jiafeng Guo, Yinqiong Cai, <b>Yixing Fan</b>, Fei Sun, Ruqing Zhang, Xueqi Cheng. <a target='new' href='https://arxiv.org/pdf/2103.04831.pdf'>Semantic Models for the First-stage Retrieval: A Comprehensive Review</a>. <i> ACM Transactions on Information Systems (<b>TOIS</b>). </i>
 </li>
 
 <li>
