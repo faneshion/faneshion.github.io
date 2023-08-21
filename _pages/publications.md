@@ -26,7 +26,7 @@ Yuan Liu, Ruqing Zhang, Jiafeng Guo, Maarten de Rijke, Wei Chen, <b>Yixing Fan</
 </li>
 
 <li>
-Xiaojie Sun, Keping Bi, Jiafeng Guo, Xinyu Ma, <b>Yixing Fan</b>,  Hongyu Shan, Qishen Zhang, and Zhongyi Liu. <a target='new' href=''>Pre-training with Aspect-Content Text Mutual Prediction for Multi-Aspect Dense Retrieval</a>. <i>32nd ACM International Conference on Information and Knowledge Management (<b>CIKM 2023</b>)</i>. Birmingham, UK. (<b>Short Paper, Acceptance Rate = 24%</b>)
+Xiaojie Sun, Keping Bi, Jiafeng Guo, Xinyu Ma, <b>Yixing Fan</b>,  Hongyu Shan, Qishen Zhang, and Zhongyi Liu. <a target='new' href=''>Pre-training with Aspect-Content Text Mutual Prediction for Multi-Aspect Dense Retrieval</a>. <i>32nd ACM International Conference on Information and Knowledge Management (<b>CIKM 2023</b>)</i>. Birmingham, UK. (<b>Short Paper, Acceptance Rate = 27.4%</b>)
 </li>
 
 <li>
@@ -85,7 +85,7 @@ IN THE YEAR OF 2021
 ------
 <ul>
 <li>
-Jiangui Chen, Ruqing Zhang, Jiafeng Guo, <b>Yixing Fan</b>, and Xueqi Cheng. <a target='new' href='https://arxiv.org/abs/2108.05069'>FedMatch: Federated Learning Over Heterogeneous Question Answering Data</a>. <i> 30th ACM International Conference on Information and Knowledge Management (<b>CIKM2021</b>). Queensland, Australia, November 2021 (<b>Full Paper, Acceptance Rate = 21%</b>) </i>
+Jiangui Chen, Ruqing Zhang, Jiafeng Guo, <b>Yixing Fan</b>, and Xueqi Cheng. <a target='new' href='https://dl.acm.org/doi/10.1145/3459637.3482345'>FedMatch: Federated Learning Over Heterogeneous Question Answering Data</a>. <i> 30th ACM International Conference on Information and Knowledge Management (<b>CIKM2021</b>). Queensland, Australia, November 2021 (<b>Full Paper, Acceptance Rate = 21%</b>) </i>
 </li>
 
 <li>
@@ -93,11 +93,11 @@ Ruqing Zhang, Jiafeng Guo, Lu Chen, <b>Yixing Fan</b>, and Xueqi Cheng. <a targe
 </li>
 
 <li>
-Yinqiong Cai, <b>Yixing Fan</b>, Jiafeng Guo, Ruqing Zhang, Yanyan Lan and Xueqi Cheng. <a target='new' href='https://dl.acm.org/doi/abs/10.1145/3471158.3472227'>A Discriminative Semantic Ranker for Question Retrieval</a>. <i>The 7th ACM SIGIR International Conference on the Theory of Information Retrieval (<b>ICTIR2021</b>) </i>.
+Yinqiong Cai, <b>Yixing Fan</b>, Jiafeng Guo, Ruqing Zhang, Yanyan Lan and Xueqi Cheng. <a target='new' href='https://dl.acm.org/doi/abs/10.1145/3471158.3472227'>A Discriminative Semantic Ranker for Question Retrieval</a>. <i>The 7th ACM SIGIR International Conference on the Theory of Information Retrieval (<b>ICTIR2021</b>), Pages: 256-260, Published: 31 August 2021</i>.
 </li>
 
 <li>
-Xinyu Ma, Jiafeng Guo, Ruqing Zhang, <b>Yixing Fan</b>, Xiang Ji, and Xueqi Cheng. <a target='new' href='https://arxiv.org/abs/2104.09791'>B-PROP: Bootstrapped Pre-training with Representative Words Prediction for Ad-hoc Retrieval</a>. <i> The 44th International ACM SIGIR Conference on Research and Development in Information Retrieval (<b>SIGIR2021</b>)</i>. Virtual Event (<b>Full Oral Paper, Acceptance Rate = 21%</b>)
+Xinyu Ma, Jiafeng Guo, Ruqing Zhang, <b>Yixing Fan</b>, Xiang Ji, and Xueqi Cheng. <a target='new' href='https://arxiv.org/abs/2104.09791'>B-PROP: Bootstrapped Pre-training with Representative Words Prediction for Ad-hoc Retrieval</a>. <i> The 44th International ACM SIGIR Conference on Research and Development in Information Retrieval (<b>SIGIR2021</b>)</i>. Virtual Event (<b>Full Oral Paper, Acceptance Rate = 21%</b>), Published: 11 July 2021.
 </li>
 
 <li>
@@ -105,7 +105,7 @@ Chen Wu, Ruqing Zhang, Jiafeng Guo, <b>Yixing Fan</b>, Yanyan Lan, and Xueqi Che
 </li>
 
 <li>
-Lixin Su, Ruqing Zhang, Jiafeng Guo, <b>Yixing Fan</b>, Jiangui Chen, Yanyan Lan, and Xueqi Cheng. <a target='new' href='https://dl.acm.org/doi/abs/10.1145/3437963.3441781'>Beyond Relevance: Trustworthy Answer Selection via Consensus Verification</a>. <i> The 14th ACM International Conference on Web Search and Data Mining (<b>WSDM2021</b>)</i>. Virtual Event (<b>Full Oral Paper, Acceptance Rate = 18.6%</b>)
+Lixin Su, Ruqing Zhang, Jiafeng Guo, <b>Yixing Fan</b>, Jiangui Chen, Yanyan Lan, and Xueqi Cheng. <a target='new' href='https://dl.acm.org/doi/abs/10.1145/3437963.3441781'>Beyond Relevance: Trustworthy Answer Selection via Consensus Verification</a>. <i> The 14th ACM International Conference on Web Search and Data Mining (<b>WSDM2021</b>)</i>. Virtual Event (<b>Full Oral Paper, Acceptance Rate = 18.6%</b>), Published: 08 March 2021.
 </li>
 
 <li>
