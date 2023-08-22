@@ -23,7 +23,10 @@ Hornors and Awards
 
 Academic Services
 ------
+* Local Organization Chair: [CCIR 2023](http://www.cips-ir.org.cn/CCIR2023/)
+* Local Organization Chair: [SIGIR-AP](http://www.sigir-ap.org/sigir-ap-2023/organizers/)
 * PC Chair: [WI-IAT2022](https://www.wi-iat.com/wi-iat2022/index.html)
+* Publicity Chair [CCIR 2022](https://ccir2022.cqut.edu.cn/Committee.htm)
 * PC Member: ICML2022, CIKM2022, SIGIR2022, TheWebConf2022, AAAI2022, CIKM2021, SIGIR2021, CIKM2021, AAAI2021, CIKM2020, SIGIR2020, ACL2020, AAAI2020
 
 
